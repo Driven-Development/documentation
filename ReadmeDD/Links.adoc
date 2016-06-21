@@ -1,1 +1,1 @@
-= Links for Readme Driven Development 
+= Resources for Readme Driven Development 

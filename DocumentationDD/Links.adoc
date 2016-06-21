@@ -1,2 +1,5 @@
 = Resources for Documentation Driven Development 
-=https://www.youtube.com/watch?v=x5rGUqRWlK8 [fn]
+
+https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
+An overview of what Documentation Driven Development is
+Prioritisation of documentation before writing code- coding the documentation

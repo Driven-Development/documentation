@@ -1,4 +1,4 @@
-= Resources on Documentation Driven Development
+= Resources on Driven Development
 Peter Lawrey
 
 === Videos

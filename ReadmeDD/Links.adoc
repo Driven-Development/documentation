@@ -1,3 +1,5 @@
 = Resources for Readme Driven Development 
 
-https://www.youtube.com/watch?v=4qD3KmGLnss
+https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014]
+
+Implications of having a Readme and links to a design-driven way of thinking, as well as how it fits into Documentation Driven Development and others

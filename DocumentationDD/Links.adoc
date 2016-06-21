@@ -2,5 +2,6 @@
 
 https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
 
-An overview of what Documentation Driven Development is
-Prioritisation of documentation before writing code- coding the documentation
+An overview of what Documentation Driven Development is, as well as its uses and importance to the a Webserver like Django.
+
+

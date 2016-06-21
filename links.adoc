@@ -1,0 +1,54 @@
+= Resources on Documentation Driven Development
+Peter Lawrey
+
+=== Videos
+
+https://www.youtube.com/watch?v=4qD3KmGLnss[Readme Driven Development]
+
+https://www.youtube.com/watch?v=x5rGUqRWlK8[Documentation Driven Development in Jango]
+
+=== Conference
+
+http://www.writethedocs.org/[Write The Docs ORG]
+
+=== Links
+
+http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[ON DOCUMENTATION-DRIVEN DEVELOPMENT]
+
+http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development]
+
+http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[Documenation Driven Development]
+
+
+https://gist.github.com/zsup/9434452[Documentation-Driven Development]
+
+http://jkg3.com/Journal/documentation-driven-development-in-bbc-frameworks[Documentation Driven Development in BBC Frameworks]
+
+https://24ways.org/2010/documentation-driven-design-for-apis[Documentation-Driven Design for APIs]
+
+http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development]
+
+
+
+https://blog.schwuk.com/2014/06/18/documentation-driven-development/[Documentation Driven Development]
+
+http://nordicapis.com/using-templates-for-documentation-driven-api-design/[Using Templates for Documentation Driven API Design]
+
+https://joeyh.name/blog/entry/documentation_first/[Documentation First]
+
+https://niccokunzmann.github.io/blog/2016-06-10/Documentation-Driven-Development[Documentation-Driven Development]
+
+https://www.computer.org/csdl/trans/ts/2004/12/e0936-abs.html[Documentation Driven Development for Complex Real-Time Systems]
+
+http://contented.qolc.net/articles/not-tdd-or-bdd-but-ddd-documentation-driven-development/[Not TDD or BDD but DDD: Documentation-driven development]
+
+http://programmers.stackexchange.com/questions/205706/how-can-i-apply-readme-driven-development-to-an-ongoing-project[Readme Driven Development in an Ongoing Project]
+
+https://bibwild.wordpress.com/2012/07/31/documentation-driven-development/[Document before you test]
+
+http://langi.cz/webarna/readme-driven-development[Readme Driven Development]
+
+https://elliot.land/readme-driven-development[Readme Driven Development]
+
+http://hexecontahedron.com/2016/03/16/what-is-readme-driven-development.html[Readme Driven Development]
+

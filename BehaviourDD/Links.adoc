@@ -1,3 +1,5 @@
 = Resources for Behaviour Driven Development
 
-https://inviqa.com/bdd-guide
+https://inviqa.com/bdd-guide[A guide to BDD, outlined by Inviqa]
+
+"The concept of BDD was introduced by Dan North, an experienced technology and organisational consultant based in London, as a means of clearing confusion between testers, developers and business people."

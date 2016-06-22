@@ -1,6 +1,7 @@
 = Resources for Documentation Driven Development 
 
-https://gist.github.com/zsup/9434452[A brief definition of DDD and its order of operations]
+https://gist.github.com/zsup/9434452[Documentation-Driven Development (DDD)] 
+► A definition of DDD and a simple order of operations when utilising it.
 
 https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
 ► An overview of what Documentation Driven Development is, as well as its uses and importance to the a Webserver like Django.

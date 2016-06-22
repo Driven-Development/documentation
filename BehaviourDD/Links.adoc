@@ -3,3 +3,9 @@
 https://inviqa.com/bdd-guide[A guide to BDD, outlined by Inviqa]
 
 "The concept of BDD was introduced by Dan North, an experienced technology and organisational consultant based in London, as a means of clearing confusion between testers, developers and business people."
+
+https://pythonhosted.org/behave/philosophy.html[Further example of the uses of BDD]
+
+https://dannorth.net/introducing-bdd/[The development of BDD from Test Driven Development]
+
+This article explains how BDD was developed to improve upin the limitations of TDD. It better accomodates the use of http://agilemodeling.com/essays/agileAnalysis.htm[agile analysis] and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automated acceptance testing] 

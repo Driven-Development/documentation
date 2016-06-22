@@ -1,8 +1,7 @@
 = Resources for Documentation Driven Development 
 
 https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
-
-An overview of what Documentation Driven Development is, as well as its uses and importance to the a Webserver like Django.
+► An overview of what Documentation Driven Development is, as well as its uses and importance to the a Webserver like Django.
 
 https://gist.github.com/zsup/9434452[A brief overview of DDD and its order of operations ]
 

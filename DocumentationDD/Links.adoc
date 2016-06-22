@@ -6,5 +6,5 @@ https://gist.github.com/zsup/9434452[Documentation-Driven Development (DDD)]
 https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
 ► An overview of what Documentation Driven Development is, as well as its uses and importance to the a Webserver like Django.
 
-
-
+http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[SpliceIt!-Documenation v0.1 ALPHA]
+► Advantages and limitations of DDD

@@ -1,5 +1,12 @@
 = Resources for Domain Driven Development
 
+http://dddcommunity.org/learning-ddd/what_is_ddd/[Domain-driven design] ► A short intoduction to DDD      
+
+"Its premise is:
+	→ Place the project’s primary focus on the core domain and domain logic
+	→ Base complex designs on a model
+	→ Initiate a creative collaboration between technical and domain experts to iteratively cut ever closer to the conceptual heart of the problem."
+
 https://www.youtube.com/watch?v=pL9XeNjy_z4[Domain Driven Design Through Onion Architecture]  ► Senior Software Developer Wade Waldron does a presentation on the structure of DDD and how it functions in colaboration with Onion Architecture to improve code quality. There is more on this https://www.infoq.com/news/2015/02/bdd-ddd[here]
 
 https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] ► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]

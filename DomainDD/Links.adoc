@@ -1,3 +1,5 @@
 = Resources for Domain Driven Development
 
 https://www.youtube.com/watch?v=pL9XeNjy_z4[Domain Driven Design Through Onion Architecture]  ► Senior Software Developer Wade Waldron does a presentation on the structure of DDD and how it functions in colaboration with Onion Architecture to improve code quality. There is more on this https://www.infoq.com/news/2015/02/bdd-ddd[here]
+
+https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] ► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]

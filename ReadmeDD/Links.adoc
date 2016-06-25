@@ -1,8 +1,8 @@
 = Resources for Readme Driven Development 
 
-http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development from Tom Preston-Werner]► This outlines why a Readme should be included in documentation and its place as a subset of Documentation-Driven Development. 
+http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development from Tom Preston-Werner]► This outlines why a Readme should be included in documentation and its place as a subset of https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation-Driven Development]. 
 
-It also includes advantages of a Readme 	
+It also includes advantages of a Readme; 	
 
 •Laying out a clear plan of what you're writing 	
 
@@ -12,6 +12,6 @@ It also includes advantages of a Readme
 
 •"The simple act of writing down a proposed solution means everyone has a concrete idea that can be argued about and iterated upon."
 
-https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014]► Implications and benifits of having a Readme and its links to a design-driven way of thinking, as well as how it fits into Documentation Driven Development and others
+https://elliot.land/readme-driven-development[The Humble Readme] ► This makes the same point as the first link, but goes into a bit more detail on what is in the Readme and how it's beneficial for the person writing the documentation and the reader.
 
-
+https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014]► Implications and benifits of having a Readme and its links to a design-driven way of thinking, as well as how it fits into https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation Driven Development] and others.

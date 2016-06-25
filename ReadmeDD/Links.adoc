@@ -1,7 +1,7 @@
 = Resources for Readme Driven Development 
 
-https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014]
+http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development from Tom Preston-Werner]► This outlines why a Readme should be included in documentation and its advantages, as well as its place as a subset of Documentation-Driven Development.
 
-Implications and benifits of having a Readme and its links to a design-driven way of thinking, as well as how it fits into Documentation Driven Development and others
+https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014]► Implications and benifits of having a Readme and its links to a design-driven way of thinking, as well as how it fits into Documentation Driven Development and others
 
-http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development from Tom Preston-Werner] 
+

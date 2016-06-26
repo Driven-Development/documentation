@@ -11,6 +11,5 @@ This includes
 - Documentation Driven Development
 - Feature Driven Development
 - Model Driven Development
-- Community Driven Development
 - Puzzle Driven Development.
 

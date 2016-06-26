@@ -3,7 +3,19 @@
 https://inviqa.com/bdd-guide[A guide to BDD, outlined by Inviqa]
 ► "The concept of BDD was introduced by Dan North, an experienced technology and organisational consultant based in London, as a means of clearing confusion between testers, developers and business people."
 
-https://pythonhosted.org/behave/philosophy.html[Further example of the uses of BDD]
+https://pythonhosted.org/behave/philosophy.html[Further example of the uses of BDD] 
+► "BDD focuses on obtaining a clear understanding of desired software behavior through discussion with stakeholders. It extends TDD by writing test cases in a natural language that non-programmers can read."
+
+"The practices of BDD include:
+
+- Establishing the goals of different stakeholders required for a vision to be implemented
+- Drawing out features which will achieve those goals using feature injection
+- Involving stakeholders in the implementation process through outside–in software development
+- Using examples to describe the behavior of the application, or of units of code
+- Automating those examples to provide quick feedback and regression testing
+- Using ‘should’ when describing the behavior of software to help clarify responsibility and allow the software’s functionality to be questioned
+- Using ‘ensure’ when describing responsibilities of software to differentiate outcomes in the scope of the code in question from side-effects of other elements of code.
+- Using mocks to stand-in for collaborating modules of code which have not yet been written"
 
 https://dannorth.net/introducing-bdd/[The development of BDD from Test Driven Development]
 ► This article explains how BDD was developed to improve upin the limitations of https://github.com/Driven-Development/documentation/blob/master/TestDD/Link.adoc[TDD]. 

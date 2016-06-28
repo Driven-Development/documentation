@@ -64,16 +64,16 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 ►
 
 - Short Defenition  _0.58_
-* Second-Generation  _1.53_
-* Outside-In Methodology _2.48_
-* BDD Stories - Multiple-Stakeholder _3.55_
+- Second-Generation  _1.53_
+- Outside-In Methodology _2.48_
+- BDD Stories - Multiple-Stakeholder _3.55_
 * The Team Writes the Story - "the team writes them and the stakeholders describe the features and the outcomes; this is what I want and this is what I need it to do." _11.40_
 * BDD Story Format _13.41_
-* Pull Based is better than Push Based _18.26_
+- Pull Based is better than Push Based _18.26_
 * The Pull Cycle _21.22_
 * The Red-Green-Refractor TDD Cycle _22.41_
 * BDD Testing is not Unit Testing _24.05_
 * The BDD Cycle _26.28_
-* jbehave _27.36_
+- jbehave _27.36_
 * jbehave Usage _32.48_
 * Q&A on jbehave example _44.15_

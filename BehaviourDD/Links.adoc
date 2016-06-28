@@ -39,6 +39,6 @@
 - Using mocks to stand-in for collaborating modules of code which have not yet been written"
 
 == https://dannorth.net/introducing-bdd/[The development of BDD from Test Driven Development]
-► This article explains how BDD was developed to improve upin the limitations of https://github.com/Driven-Development/documentation/blob/master/TestDD/Link.adoc[TDD]. 
+► This article explains how BDD was developed to improve upon the limitations of https://github.com/Driven-Development/documentation/blob/master/TestDD/Link.adoc[TDD]. 
 It better accomodates the use of http://agilemodeling.com/essays/agileAnalysis.htm[agile analysis] 
 and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automated acceptance testing] 

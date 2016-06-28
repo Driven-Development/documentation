@@ -60,7 +60,7 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 - Implementations : Tools for implementing BDD.
 
 == https://www.youtube.com/watch?v=vrry-I4NXCI[Talk by Gordon Force about BDD at the San Francisco Java User Group]
-===== Video Link
+===== Video Link _59.21_
 ►
 
 - Short Defenition  _0.58_
@@ -77,3 +77,16 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 - jbehave _27.36_
 * jbehave Usage _32.48_
 * Q&A on jbehave example _44.15_
+
+== https://www.youtube.com/watch?v=w7NPpEvC1dE[BDD Overview]
+===== Video Link _12.03_
+►
+
+- Behaviour-Driven Development (BDD)
+* What is it?
+* What are the benefits?
+* Who Participates?
+- Rhythm of BDD
+* How does it fit in the agile process?
+- Gherkin language to create living requirements
+* How do we define system behaviour?

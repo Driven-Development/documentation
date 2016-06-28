@@ -20,7 +20,6 @@
 8 Why does BDD work? What is its essence / core?
 * What is the biggest impediment to BDD?
 - **How we use it**
-* Additional Resources
 - **Glossary**
 
 

@@ -4,23 +4,23 @@
 ► "The concept of BDD was introduced by Dan North, an experienced technology and organisational consultant based in London, as a means of clearing confusion between testers, developers and business people."
 
 - **What is it?**
-- Key Benefits of BDD
+* Key Benefits of BDD
 - **Key Elements**
-- Starting with a Goal
-- Impact Mapping
-- Value and Complexity Analysis
-- Planning in Examples
-- Usage-Centered Design
-- Ubiquitous Language
-- Example Workshop: Introducing the Three Amigos
-- Development Through Examples
-- The BDD Loops
+* Starting with a Goal
+* Impact Mapping
+* Value and Complexity Analysis
+* Planning in Examples
+* Usage-Centered Design
+* Ubiquitous Language
+* Example Workshop: Introducing the Three Amigos
+* Development Through Examples
+* The BDD Loops
 - **Q&A**
-- What was the biggest pain or problem that you were looking to address when you introduced BDD?
-- Why does BDD work? What is its essence / core?
-- What is the biggest impediment to BDD?
+* What was the biggest pain or problem that you were looking to address when you introduced BDD?
+8 Why does BDD work? What is its essence / core?
+* What is the biggest impediment to BDD?
 - **How we use it**
-- Additional Resources
+* Additional Resources
 - **Glossary**
 
 

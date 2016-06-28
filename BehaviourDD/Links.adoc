@@ -40,4 +40,24 @@
 == https://dannorth.net/introducing-bdd/[The development of BDD from Test Driven Development]
 ► This article explains how BDD was developed to improve upon the limitations of https://github.com/Driven-Development/documentation/blob/master/TestDD/Link.adoc[TDD]. 
 It better accomodates the use of http://agilemodeling.com/essays/agileAnalysis.htm[agile analysis] 
-and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automated acceptance testing] 
+and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automated acceptance testing]. 
+
+== http://behaviourdriven.org/[BDDWiki]
+
+► "BDD relies on the use of a very specific (and small) vocabulary to minimise miscommunication and to ensure that everyone – the business, developers, testers, analysts and managers – are not only on the same page but using the same words."
+
+► The pages leads to a more in depth explaination of BDD:
+
+- Introduction : A brief overview
+- The BDDProcess : A description of a development process using BDD
+- BehaviourDrivenAnalysis : How do we approach analysis for BDD?
+- BehaviourDrivenProgramming : What changes do we make to our approach to programming?
+- DanNorth has written an article describing how BDD evolved.
+- DaveAstels has written an article about BDD in Ruby.
+- Implementations : Tools for implementing BDD.
+
+
+
+
+
+

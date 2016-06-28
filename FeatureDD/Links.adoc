@@ -2,5 +2,5 @@
 
 http://agilemodeling.com/essays/fdd.htm[Feature Driven Development (FDD) and Agile Modeling] ► This explains what a feature actuallt is, with a diagram of the FDD project lifecycle.
 
-
+https://www.youtube.com/watch?v=D7f4ztJIHwo
 

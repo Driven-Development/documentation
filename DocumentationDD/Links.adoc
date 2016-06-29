@@ -6,6 +6,8 @@
 
 ► A definition of DDD and a simple order of operations when utilising it.
 
+== http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[Collective idea- On Documentation-Driven Development]
+
 == https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
 
 ===== Video link _28.01_

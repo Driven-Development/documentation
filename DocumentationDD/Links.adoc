@@ -1,13 +1,19 @@
 = Resources for Documentation Driven Development 
 
-https://gist.github.com/zsup/9434452[Documentation-Driven Development (DDD)] 
+== https://gist.github.com/zsup/9434452[Documentation-Driven Development (DDD)] 
 
 ===== Web Page
 
 ► A definition of DDD and a simple order of operations when utilising it.
 
-https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
+== https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
+
+===== Video link _28.01_
+
 ► An overview of what Documentation Driven Development is, as well as its uses and importance to the a Webserver like Django.
 
-http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[SpliceIt!-Documenation v0.1 ALPHA]
+== http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[SpliceIt!-Documenation v0.1 ALPHA]
+
+===== Web Page
+
 ► Advantages and limitations of DDD

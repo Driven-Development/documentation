@@ -11,6 +11,19 @@
 ===== Video link _28.01_
 
 ► An overview of what Documentation Driven Development is, as well as its uses and importance to the a Webserver like Django.
+► 
+
+- Documentation-Driven Development _2.58_
+* Don't document your code, code your documentation _3.32_
+- Lessons from the Django project _5.00_
+* Django's documentation is exemplary _5.06_
+* -Django's good documentation is good for Django
+* -Software is not the only thing that developes
+* -What does documentation mean for the development of communities and programmers?
+* Developing a community _8.29_
+* -Information and documentation as product and content
+* -Information and documentation as process and activity
+* -Good documentation shows respect
 
 == http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[SpliceIt!-Documenation v0.1 ALPHA]
 

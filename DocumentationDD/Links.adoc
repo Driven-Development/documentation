@@ -5,6 +5,7 @@
 ===== Web Page
 
 ► A definition of DDD and a simple order of operations when utilising it.
+
 ► "...from the perspective of a user, if a feature is not documented, then it doesn't exist, and if a feature is documented incorrectly, then it's broken."
 
 == http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[Collective idea- On Documentation-Driven Development]
@@ -37,7 +38,17 @@
 - *What can your project do?* _23.17_
 
 == http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[SpliceIt!-Documenation v0.1 ALPHA]
-
 ===== Web Page
 
-► Advantages and limitations of DDD
+► Benefits and limitations of DDD
+
+The good
+-Keeps you from over-complicating things.
+-Your project will always be very well documented.
+-Helps Planning.
+-Creates user-friendly software.
+-Keeps up motivation.
+
+And the bad
+-Time consuming.
+-I can be confusing.

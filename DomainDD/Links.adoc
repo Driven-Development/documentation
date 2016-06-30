@@ -1,6 +1,41 @@
 = Resources for Domain Driven Development
 
-http://dddcommunity.org/learning-ddd/what_is_ddd/[Domain-driven design] ► A short intoduction to DDD      
+== http://www.methodsandtools.com/archive/archive.php?id=97[An Introduction to Domain Driven Design]
+===== Web page
+
+== https://www.youtube.com/watch?v=RNUn2R7TptM[Domain-Driven Design: Bradley Holt Found Line]
+===== Video link
+
+== https://www.youtube.com/watch?v=7MaYeudL9yo[Domain Driven Design - Eric Evans]
+===== Video link
+
+== https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2]
+===== Video link
+
+== https://www.infoq.com/presentations/ddd-net-2[Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2]
+===== Video link
+
+== https://www.youtube.com/watch?v=d8V_yCuXx2Y[Domain Driven Design talk, given at Imagine Easy Solutions in New York City.]
+===== Video link
+
+► https://www.dropbox.com/s/27oq6ewyjo44i3a/DDDppt.pptx?dl=0[Powerpoint presentation given]
+
+A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New York City. We cover some of the basics of Domain Driven Design, such as:
+
+- What is a "domain?"
+- What is a "domain expert?"
+- What is a "model?"
+- How do I work with a domain expert to create a model?
+- The building blocks of the model, including:
+* Entities
+* Value Objects
+* Factories
+* Services
+* Repositories
+- We also synthesize all of these things into a single, layered architecture. But most of that section got cut off because the camera died.
+
+== http://dddcommunity.org/learning-ddd/what_is_ddd/[Domain-driven design] ► A short intoduction to DDD      
+===== Web page
 
 "Its premise is:
 
@@ -8,6 +43,16 @@ http://dddcommunity.org/learning-ddd/what_is_ddd/[Domain-driven design] ► A sh
 	- Base complex designs on a model
 	- Initiate a creative collaboration between technical and domain experts to iteratively cut ever closer to the conceptual heart of the problem."
 
-https://www.youtube.com/watch?v=pL9XeNjy_z4[Domain Driven Design Through Onion Architecture]  ► Senior Software Developer Wade Waldron does a presentation on the structure of DDD and how it functions in colaboration with Onion Architecture to improve code quality. There is more on this https://www.infoq.com/news/2015/02/bdd-ddd[here]
+== https://www.youtube.com/watch?v=pL9XeNjy_z4[Domain Driven Design Through Onion Architecture]  
+===== Video link
 
-https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] ► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]
+► Senior Software Developer Wade Waldron does a presentation on the structure of DDD and how it functions in colaboration with Onion Architecture to improve code quality. There is more on this https://www.infoq.com/news/2015/02/bdd-ddd[here]
+
+== https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] 
+===== Web page
+
+► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]
+
+== http://www.drdobbs.com/architecture-and-design/domain-driven-design-the-good-and-the-ch/240169117[Domain-Driven Design: The Good and The Challenging]
+===== Web Page
+

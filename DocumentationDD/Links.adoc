@@ -8,8 +8,6 @@
 
 ► "...from the perspective of a user, if a feature is not documented, then it doesn't exist, and if a feature is documented incorrectly, then it's broken."
 
-== http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[Collective idea- On Documentation-Driven Development]
-
 == https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
 
 ===== Video link _28.01_
@@ -36,6 +34,11 @@
 * -Django's documentation advances those who contribute to it 
 * -Django does documentation-driven development 
 - *What can your project do?* _23.17_
+
+== http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[Collective idea- On Documentation-Driven Development]
+===== Web Page
+
+► The article talks about this "lesser-known concept of “documentation-driven development”". It hightlights the importance of the README, "it has the ability to give a high level view of your code, communicating its overarching purpose." It also mentions http://www.webopedia.com/TERM/A/API.html[APIs] and their experience at Collective Idea, "writing documentation first provides a space in which server and client teams can collaborate", " [DDD] elevates writing documentation to the same level of importance as writing code... this gives the reviewer insight into the “why” behind a set of code changes."
 
 == http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[SpliceIt!-Documenation v0.1 ALPHA]
 ===== Web Page

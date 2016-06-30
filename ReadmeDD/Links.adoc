@@ -26,6 +26,9 @@ It also includes advantages of a Readme;
 == https://www.youtube.com/watch?v=23xzRCoDZf4[Ignite Rails: Matt Parker - README Driven Development]
 ===== Video link _5.31_
 
+== https://www.youtube.com/watch?v=L3SZGil9xok[Readme Driven Development by Petro Sasnyk]
+===== Video link
+
 == https://ponyfoo.com/articles/readme-driven-development[README Driven Development]
 ===== Web page
 

@@ -5,6 +5,7 @@
 ===== Web Page
 
 ► A definition of DDD and a simple order of operations when utilising it.
+► "...from the perspective of a user, if a feature is not documented, then it doesn't exist, and if a feature is documented incorrectly, then it's broken."
 
 == http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[Collective idea- On Documentation-Driven Development]
 

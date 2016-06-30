@@ -9,6 +9,9 @@
 == https://www.youtube.com/watch?v=7MaYeudL9yo[Domain Driven Design - Eric Evans]
 ===== Video link
 
+== https://vimeo.com/12212432[DDD - Domain Driven Development]
+===== Video link _29.08_
+
 == https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2]
 ===== Video link
 

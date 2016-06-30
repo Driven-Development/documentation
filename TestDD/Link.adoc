@@ -1,1 +1,22 @@
 = Resources for Test Driven Development 
+
+== http://agiledata.org/essays/tdd.html[Introduction to Test Driven Development (TDD)]
+===== Web page
+
+== https://www.youtube.com/watch?v=QCif_-r8eK4[Test-driven development tutorial: What is test-driven development (TDD)? | lynda.com]
+===== Video link
+
+== https://www.youtube.com/watch?v=HhwElTL-mdI[Test-driven development: Write better code in less time by Evan Dorn]
+===== Video link
+
+== https://www.youtube.com/watch?v=O-ZT_dtlrR0[What is Test Driven Development (TDD)? With an example]
+===== Video link
+
+== http://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/[What’s the difference between Unit Testing, TDD and BDD?]
+===== Web page
+
+== https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80).aspx[Guidelines for Test-Driven Development]
+===== Web page
+
+== http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html[TDD is dead. Long live testing.]
+===== Web page

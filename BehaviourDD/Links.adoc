@@ -91,3 +91,14 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 - DaveAstels has written an article about BDD in Ruby.
 - Implementations : Tools for implementing BDD.
 
+== https://prezi.com/pcffgdstea5e/stories-using-behavior-driven-dev/[Stories using Behavior Driven Dev]
+===== Prezi Powerpoint
+
+► This presentation outlines how BDD can improve communication between the customers, developers and stakeholders involved. 
+
+► BDD is a Combination of Test Driven Development and Domain Driven Development , and it's based on three core principles; Business and technology should refer to the same system in the same way; any system should have an identifiable and varifiable value to the business; up-front analysis, design and planning all have a diminishing return.
+
+► Test Driven Development is making the software right, whereas Behaviour Driven Development is making the right software.
+
+► The use of stories to improve communication and how to create a good story to reach the goals of the project. This includes a Story Title, Narrative and Scenarios.
+

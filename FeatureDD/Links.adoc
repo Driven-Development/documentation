@@ -1,6 +1,19 @@
 = Resources for Feature Driven Development
 
-http://agilemodeling.com/essays/fdd.htm[Feature Driven Development (FDD) and Agile Modeling] ► This explains what a feature actuallt is, with a diagram of the FDD project lifecycle.
+== http://www.arrkgroup.com/thought-leadership/feature-driven-development-a-guide/[Feature Driven Development: A Guide]
+===== Web page
 
-https://www.youtube.com/watch?v=D7f4ztJIHwo
+== https://www.youtube.com/watch?v=D7f4ztJIHwo[Feature Driven Development]
+===== Video link
+
+== https://dzone.com/articles/introduction-feature-driven[An Introduction to Feature-Driven Development]
+===== Web page
+
+== http://agilemodeling.com/essays/fdd.htm[Feature Driven Development (FDD) and Agile Modeling] 
+===== Web page
+
+► This explains what a feature actually is, with a diagram of the FDD project lifecycle.
+
+== http://www.nebulon.com/fdd/[Agile Software Development using Feature Driven Development (FDD)]
+===== Web page
 

@@ -13,6 +13,18 @@
 
 ► Bounded context is also explained; "users relate to the concepts of the model in a particular way, and the terminology of the model makes sense to these users but not necessarily to anyone else outside that context."
 
+== https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2]
+===== Video link _52:19_
+
+► "Steve Bohlen introduces DDD principles and concepts, and explores various patterns -Repositories, Specifications, Entities, Value Objects, Services, etc. - useful for implementing DDD in .NET code."
+
+► Concepts behind DDD.
+
+=== https://www.infoq.com/presentations/ddd-net-2[Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2]
+===== Video link _1:02:10_
+
+► Individual building blocks, code examples.
+
 == https://www.youtube.com/watch?v=RNUn2R7TptM[Domain-Driven Design: Bradley Holt Found Line]
 ===== Video link _1:05:37_
 
@@ -44,16 +56,6 @@
 - Command-Query Responsibility Segregation (CQRS) _0:54:09_
 * Write Model/Read Model
 - Q&A
-
-== https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2]
-===== Video link _52:19_
-
-=== https://www.infoq.com/presentations/ddd-net-2[Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2]
-===== Video link _1:02:10_
-
-► "Steve Bohlen introduces DDD principles and concepts, and explores various patterns -Repositories, Specifications, Entities, Value Objects, Services, etc. - useful for implementing DDD in .NET code."
-
-► 
 
 == https://www.youtube.com/watch?v=d8V_yCuXx2Y[Domain Driven Design talk, given at Imagine Easy Solutions in New York City.]
 ===== Video link __

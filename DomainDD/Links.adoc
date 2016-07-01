@@ -18,6 +18,9 @@
 
 ► 
 
+What is a Domain? _0:00:30_
+What is a Model? _0:02:05_
+
 == https://www.youtube.com/watch?v=7MaYeudL9yo[Domain Driven Design - Eric Evans]
 ===== Video link __
 

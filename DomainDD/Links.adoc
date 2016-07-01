@@ -14,7 +14,7 @@
 ► Bounded context is also explained; "users relate to the concepts of the model in a particular way, and the terminology of the model makes sense to these users but not necessarily to anyone else outside that context."
 
 == https://www.youtube.com/watch?v=RNUn2R7TptM[Domain-Driven Design: Bradley Holt Found Line]
-===== Video link __
+===== Video link _1:05:37_
 
 ► 
 
@@ -24,7 +24,7 @@
 ► 
 
 == https://vimeo.com/12212432[DDD - Domain Driven Development]
-===== Video link _29.08_
+===== Video link _29:08_
 
 == https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2]
 ===== Video link __

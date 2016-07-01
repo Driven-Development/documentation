@@ -66,11 +66,7 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 - What is a "model?"
 - How do I work with a domain expert to create a model?
 - The building blocks of the model, including:
-* Entities
-* Value Objects
-* Factories
-* Services
-* Repositories
+* Entities ○ Value Objects ○ Factories ○ Services ○ Repositories
 - We also synthesize all of these things into a single, layered architecture. But most of that section got cut off because the camera died.
 
 == http://dddcommunity.org/learning-ddd/what_is_ddd/[Domain-driven design] ► A short intoduction to DDD      

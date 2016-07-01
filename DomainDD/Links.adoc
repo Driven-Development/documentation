@@ -18,8 +18,23 @@
 
 ► 
 
-What is a Domain? _0:00:30_
-What is a Model? _0:02:05_
+- What is a Domain? _0:00:30_
+- What is a Model? _0:02:05_
+- Case Study: Three Dimensional Animation _0:07:15_
+* Working with Domain experts 
+- Identify your core domain _0:09:25_
+- There are always multiple models _0:11:30_
+* Bounded context
+* Ubiquitous language
+- Strategic Design _0:14:00_
+* Context Map
+* Relationship Patterns
+- Building Blocks _0:16:42_
+* Entity ○ Value Object ○ Aggregate ○ Aggregate Root ○ Repository ○ Service
+- Model Exploration _0:23:20_
+- Ubiquitous Language _0:26:30_
+* Domain concept: Election event
+
 
 == https://www.youtube.com/watch?v=7MaYeudL9yo[Domain Driven Design - Eric Evans]
 ===== Video link __

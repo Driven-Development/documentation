@@ -10,7 +10,7 @@
 
 == https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
 
-===== Video link _28.01_
+===== Video link _28:01_
 
 ► An overview of what Documentation Driven Development is, as well as its uses and importance to the a Webserver like Django.
 ► 

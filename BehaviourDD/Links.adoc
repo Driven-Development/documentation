@@ -1,7 +1,7 @@
 = Resources for Behaviour-Driven Development
 
 == https://www.youtube.com/watch?v=w7NPpEvC1dE[BDD Overview]
-===== Video Link _12.03_
+===== Video Link _12:03_
 ►
 
 - Behaviour-Driven Development (BDD)
@@ -14,30 +14,30 @@
 * How do we define system behaviour?
 
 == https://vimeo.com/65160463[Behavior Driven Development with Cucumber]
-===== Video link _10.40_
+===== Video link _10:40_
 
 ► "Today we are going to talk about Behavior Driven Development with Cucumber. I have set up a little app and show you some examples in Ruby."
 
 Clemens Helm explains what Cucumber is used for, that it uses feature files and how you write scenarios; "a scenario is a sequence of steps that describe what exactly it is that you want to acheive". This covers "given steps", "when steps" and "then steps", as well as the advantages of using cucumber; descriptions make it clear what the code is doing and the steps are reusable.
 
 == https://www.youtube.com/watch?v=vrry-I4NXCI[Talk by Gordon Force about BDD at the San Francisco Java User Group]
-===== Video Link _59.21_
+===== Video Link _59:21_
 ►
 
-- Short Defenition  _0.58_
-- Second-Generation  _1.53_
-- Outside-In Methodology _2.48_
-- BDD Stories - Multiple-Stakeholder _3.55_
-* The Team Writes the Story - "the team writes them and the stakeholders describe the features and the outcomes; this is what I want and this is what I need it to do." _11.40_
-* BDD Story Format _13.41_
-- Pull Based is better than Push Based _18.26_
-* The Pull Cycle _21.22_
-* The Red-Green-Refractor TDD Cycle _22.41_
-* BDD Testing is not Unit Testing _24.05_
-* The BDD Cycle _26.28_
-- jbehave _27.36_
-* jbehave Usage _32.48_
-* Q&A on jbehave example _44.15_
+- Short Defenition  _0:58_
+- Second-Generation  _1:53_
+- Outside-In Methodology _2:48_
+- BDD Stories - Multiple-Stakeholder _3:55_
+* The Team Writes the Story - "the team writes them and the stakeholders describe the features and the outcomes; this is what I want and this is what I need it to do." _11:40_
+* BDD Story Format _13:41_
+- Pull Based is better than Push Based _18:26_
+* The Pull Cycle _21:22_
+* The Red-Green-Refractor TDD Cycle _22:41_
+* BDD Testing is not Unit Testing _24:05_
+* The BDD Cycle _26:28_
+- jbehave _27:36_
+* jbehave Usage _32:48_
+* Q&A on jbehave example _44:15_
 
 == https://inviqa.com/bdd-guide[A guide to BDD, outlined by Inviqa]
 ===== Web Page

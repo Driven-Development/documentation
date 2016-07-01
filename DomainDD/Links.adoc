@@ -34,7 +34,13 @@
 - Model Exploration _0:23:20_
 - Ubiquitous Language _0:26:30_
 * Domain concept: Election event
-
+* Election Event ○ Ballot item ○ Election ○ District ○ Winning Threshold
+* Scenario ○ Elecation Aggregate ○ Election Entity (Aggregate Root) ○ Candidate Entity ○ Winning Policy Value Object
+* Code Probe ○ Election Scenario as Test ○ Challenge Model with more Scenarios ○ 
+- Supple Design _0:45:13_
+* Closure of operations ○ Totaling Ballot Item Results ○ Other Techniques ○ Is the intention clear? ○ Side-effect free ○ Assert Preconditions and Postconditions 
+* Advanced Topics _0:51:08_
+○ 
 
 == https://www.youtube.com/watch?v=7MaYeudL9yo[Domain Driven Design - Eric Evans]
 ===== Video link __

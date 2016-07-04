@@ -94,4 +94,4 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 == http://www.drdobbs.com/architecture-and-design/domain-driven-design-the-good-and-the-ch/240169117[Domain-Driven Design: The Good and The Challenging]
 ===== Web Page
 
-► 
+► "In DDD, once you understand the business domain your software is to address, then all you have to do is build a layered architecture where the business logic is split into two distinct modules — core domain logic (which is invariant to use cases) and the application logic (which is the implementation of use cases). "

@@ -11,6 +11,8 @@
 * Design by feature
 * Build by feature
 
+As well as best practices designed for software engineering and the pros and cons of FDD
+
 == https://www.youtube.com/watch?v=D7f4ztJIHwo[Feature Driven Development]
 ===== Video link
 

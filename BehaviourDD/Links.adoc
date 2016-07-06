@@ -110,3 +110,8 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 
 ► The use of stories to improve communication and how to create a good story to reach the goals of the project. This includes a Story Title, Narrative and Scenarios.
 
+== https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] 
+===== Web page
+
+► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]
+► BDD can become more like DDD; "by talking with domain experts clarifying naming, finding missing relations and so on, scenarios can be written with more details and when written in a common language shared by business people and developers, a ubiquitous language will emerge, a key concept in DDD. "

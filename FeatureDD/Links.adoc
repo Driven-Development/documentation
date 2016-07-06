@@ -3,11 +3,17 @@
 == http://www.arrkgroup.com/thought-leadership/feature-driven-development-a-guide/[Feature Driven Development: A Guide]
 ===== Web page
 
+► This covers the 5 processes of FDD;
+
+* Develop an overall model
+* Build a feature list
+* Plan by features
+* Design by feature
+* Build by feature
+
 == https://www.youtube.com/watch?v=D7f4ztJIHwo[Feature Driven Development]
 ===== Video link
 
-== https://dzone.com/articles/introduction-feature-driven[An Introduction to Feature-Driven Development]
-===== Web page
 
 == http://agilemodeling.com/essays/fdd.htm[Feature Driven Development (FDD) and Agile Modeling] 
 ===== Web page

@@ -58,7 +58,7 @@
 - Q&A
 
 == https://www.youtube.com/watch?v=d8V_yCuXx2Y[Domain Driven Design talk, given at Imagine Easy Solutions in New York City.]
-===== Video link __
+===== Video link _59:33_
 
 ► https://www.dropbox.com/s/27oq6ewyjo44i3a/DDDppt.pptx?dl=0[Powerpoint presentation given]
 

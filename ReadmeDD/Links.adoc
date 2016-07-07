@@ -74,6 +74,22 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 ► Uses a scenario for the listener to understand a time where having a well written README is useful.
 
+► Writing a README provides confidence and clarity to those who use it.
+
+► Daniel D. Beck reviews selected READMEs, asking certain questions about them _3:13_
+
+*Context*
+
+* What kind of project is this?
+* What other files accompany this README?
+* What markup is this?
+
+*Content*
+
+* What topics does the file cover?
+* What links does this file have?
+* What images does the file have?
+
 == https://www.youtube.com/watch?v=23xzRCoDZf4[Ignite Rails: Matt Parker - README Driven Development]
 ===== Video link _5.31_
 
@@ -97,5 +113,3 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 ► This documentation is more efficient to change than rewriting tests in https://github.com/Driven-Development/documentation/blob/master/TestDD/Link.adoc[TDD]
 
 ► It's important for an open-source community, as "without thorough, well-written documentation, consumers are at a complete loss as to how to use a library."
-
-

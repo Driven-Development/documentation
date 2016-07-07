@@ -18,21 +18,21 @@
 - *Documentation-Driven Development* _2.58_
 - *Don't document your code, code your documentation* _3.32_
 - *Lessons from the Django project* _5.00_
-* -Django's good documentation is good for Django
-* -Software is not the only thing that developes
-* -What does documentation mean for the development of communities and programmers?
+* Django's good documentation is good for Django
+* Software is not the only thing that developes
+* What does documentation mean for the development of communities and programmers?
 - Developing a community _8.29_
-* -Information and documentation as product and content
-* -Information and documentation as process and activity
-* -Good documentation shows respect
-* -Django's documentation informs its community
+* Information and documentation as product and content
+* Information and documentation as process and activity
+* Good documentation shows respect
+* Django's documentation informs its community
 - Developing programmers _17.49_
-* -Django's documentation structure guides new contributions
-* -Contributions to Django's documentation are taken seriously and held to the highest standards
-* -Contributions to Django's documentation are valued
-* -Documenting code is the best possible way to understand it
-* -Django's documentation advances those who contribute to it 
-* -Django does documentation-driven development 
+* Django's documentation structure guides new contributions
+* Contributions to Django's documentation are taken seriously and held to the highest standards
+* Contributions to Django's documentation are valued
+* Documenting code is the best possible way to understand it
+* Django's documentation advances those who contribute to it 
+* Django does documentation-driven development 
 - *What can your project do?* _23.17_
 
 == http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[Collective idea- On Documentation-Driven Development]

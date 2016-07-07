@@ -45,7 +45,7 @@
 
 ► Benefits and limitations of DDD
 
-The good
+*The good*
 
 - Keeps you from over-complicating things.
 - Your project will always be very well documented.
@@ -53,7 +53,7 @@ The good
 - Creates user-friendly software.
 - Keeps up motivation.
 
-And the bad
+*And the bad*
 
 - Time consuming.
 - I can be confusing.

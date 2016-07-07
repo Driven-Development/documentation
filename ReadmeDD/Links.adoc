@@ -24,6 +24,36 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 ► Implications and benifits of having a README and its links to a design-driven way of thinking, as well as how it fits into https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation Driven Development] and others.
 
+► Having a document of the requirements before hand rather than having to document everything afterward.
+
+► README Driven Development brings a Design element.
+
+► How does RDD relate to https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]? _5:30_
+
+* README is an intoduction to the code rather than a whole documentation
+
+► Detecting complexity early on _6:50_
+
+* Pro Tip: Write your issues like documentation 
+
+► Write the README first as a scaffold for what you're going to do _7:57_
+*Benefits of RDD*
+
+* Gives a clear idea of the project so code doesn't need to be changed every time you want to adjust it.
+* Provides a reference for later documentation.
+* Writing documentation after a project is a lot harder than writing a Readme beforehand.
+* Co-workers can work on other projects that will interface with your code
+* Easier to have a discussion based on something written down.
+* Goals can be pinned down by the developers and consumers better.
+* Github showcases the Readme on the main project page
+* It's open-source compatible
+
+* Pro Tip: Keep your Readme open at all times
+* Free Bonus Feature: no teams are just sitting pretty
+* Pro Tip: Implementing RDD/DDD to BDD or TDD can be a simple step _13:25_
+
+*Pitfalls of RDD*
+
 == https://www.youtube.com/watch?v=2dAK42B7qtw[Write the Readable README]
 ===== Video link _22.48_
 

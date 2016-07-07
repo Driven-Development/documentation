@@ -16,7 +16,6 @@ It also includes advantages of a Readme;
 •"The simple act of writing down a proposed solution means everyone has a concrete idea that can be argued about and iterated upon."
 
 https://elliot.land/readme-driven-development[The Humble Readme] 
-===== Web page
 
 ► This goes into a bit more detail on what is in the Readme and how it's beneficial for the person writing the documentation and the reader.
 

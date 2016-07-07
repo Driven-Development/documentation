@@ -90,6 +90,32 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 * What links does this file have?
 * What images does the file have?
 
+*Subjective*
+
+* What was good?
+* What was bad?
+* How did the README make me feel?
+
+► README quality varies. 
+► There are few conventions.
+► READMEs are missing information.
+► This covers further stats about the READMEs reviewed and what they are lacking in order to identify that a "Readable README" needs.
+
+► *A typical README* _10:40_
+
+► *A good README* _11:21_
+
+► Build the readers confidence in the project
+
+* Helps the reader identiry the project.
+* Evaluate the project - who it's for/ help, where it came from.
+* Use the project one time.
+* Help the reader engaje with the project.
+
+► *Using a README template/checklist* _12:16_
+
+* github.com/ddbeck/readme-checklist
+
 == https://www.youtube.com/watch?v=23xzRCoDZf4[Ignite Rails: Matt Parker - README Driven Development]
 ===== Video link _5.31_
 
@@ -103,7 +129,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 * Act Two - Tutorial
 * Act Three - Get Out Quickly
 
-► Write the README first
+► Write the README first.
 
 == https://ponyfoo.com/articles/readme-driven-development[README Driven Development]
 ===== Web page

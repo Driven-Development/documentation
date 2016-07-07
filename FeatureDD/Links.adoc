@@ -32,6 +32,6 @@ As well as best practices designed for software engineering and the pros and con
 ► Uses a diagram to explain the FDD project lifecycle.
 ► Explains how agile modeling can be applied to FDD.
 
-== http://www.nebulon.com/fdd/[Agile Software Development using Feature Driven Development (FDD)]
-===== Web page
+► http://www.nebulon.com/fdd/[Agile Software Development using Feature Driven Development (FDD)]
+
 

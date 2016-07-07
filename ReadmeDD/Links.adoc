@@ -15,6 +15,11 @@ It also includes advantages of a Readme;
 
 •"The simple act of writing down a proposed solution means everyone has a concrete idea that can be argued about and iterated upon."
 
+ https://elliot.land/readme-driven-development[The Humble Readme] 
+===== Web page
+
+► This goes into a bit more detail on what is in the Readme and how it's beneficial for the person writing the documentation and the reader.
+
 == https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014] 
 ===== Video link _23.25_
 
@@ -44,8 +49,10 @@ It also includes advantages of a Readme;
 == https://ponyfoo.com/articles/readme-driven-development[README Driven Development]
 ===== Web page
 
-== https://elliot.land/readme-driven-development[The Humble Readme] 
-===== Web page
+► "README-first is a powerful notion. You sit down, you design your library, flesh out an http://www.webopedia.com/TERM/A/API.html[API], write it down, and get to coding."
 
-► This makes the same point as the first link, but goes into a bit more detail on what is in the Readme and how it's beneficial for the person writing the documentation and the reader.
+► This documentation is more efficient to change than rewriting tests in https://github.com/Driven-Development/documentation/blob/master/TestDD/Link.adoc[TDD]
+
+► It's important for an open-source community, as "without thorough, well-written documentation, consumers are at a complete loss as to how to use a library."
+
 

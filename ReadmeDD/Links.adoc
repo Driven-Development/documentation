@@ -18,7 +18,7 @@ It also includes advantages of a Readme;
 == https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014] 
 ===== Video link _23.25_
 
-► Implications and benifits of having a Readme and its links to a design-driven way of thinking, as well as how it fits into https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation Driven Development] and others.
+► Implications and benifits of having a README and its links to a design-driven way of thinking, as well as how it fits into https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation Driven Development] and others.
 
 == https://www.youtube.com/watch?v=2dAK42B7qtw[Write the Readable README]
 ===== Video link _22.48_
@@ -26,8 +26,20 @@ It also includes advantages of a Readme;
 == https://www.youtube.com/watch?v=23xzRCoDZf4[Ignite Rails: Matt Parker - README Driven Development]
 ===== Video link _5.31_
 
+► README is part of having an open source community.
+
+► README is for the users.
+
+► It's a story with a beginning, middle and end.
+
+* Act One - "the hook"
+* Act Two - Tutorial
+* Act Three - Get Out Quickly
+
+► Write the README first
+
 == https://www.youtube.com/watch?v=L3SZGil9xok[Readme Driven Development by Petro Sasnyk]
-===== Video link
+===== Video link _56:43_
 
 == https://ponyfoo.com/articles/readme-driven-development[README Driven Development]
 ===== Web page

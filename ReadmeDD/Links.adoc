@@ -107,7 +107,25 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 * github.com/ddbeck/readme-checklist
 
-► Write a README
+► *Write a README* _13:53_
+
+► Identify
+
+* Name of project ○ URL of project ○ Author of project.
+
+► Evaluate 
+
+* How doe sthis project help? ○ What are the terms of use? 
+
+► Use
+
+* Name prerequisits  ○ List installation steps  ○ Show it works once.
+
+► Engage
+
+* Where is the documentation?  ○ Where do contributions go?  ○ Where are the people?
+
+* github.com/nayafia/contributing-template 
 
 == https://www.youtube.com/watch?v=23xzRCoDZf4[Ignite Rails: Matt Parker - README Driven Development]
 ===== Video link _5.31_

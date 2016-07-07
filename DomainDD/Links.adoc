@@ -96,7 +96,11 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 
 ► Traditional Layered Architecture 
 
-* Presentation * Business/Domain * Data access
+* Presentation ○ Business/Domain ○ Data access
+
+► Onion Architecture
+
+* Infrastructure ○ API ○ Domain ○ Core
 
 == http://www.drdobbs.com/architecture-and-design/domain-driven-design-the-good-and-the-ch/240169117[Domain-Driven Design: The Good and The Challenging]
 ===== Web Page

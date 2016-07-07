@@ -17,7 +17,12 @@
 - Tools
 
 == https://www.youtube.com/watch?v=QCif_-r8eK4[Test-driven development tutorial: What is test-driven development (TDD)? | lynda.com]
-===== Video link
+===== Video link _4:57_
+
+►
+►
+►
+►
 
 == https://vimeo.com/10697309[Test Driven Development in Lithium]
 ===== Video link

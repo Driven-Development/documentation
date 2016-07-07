@@ -80,21 +80,21 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 *Context*
 
- What kind of project is this?
- What other files accompany this README?
- What markup is this?
+► What kind of project is this? 
+► What other files accompany this README? 
+►  What markup is this? 
 
 *Content*
 
- What topics does the file cover?
- What links does this file have?
- What images does the file have?
+► What topics does the file cover? 
+► What links does this file have? 
+► What images does the file have? 
 
 *Subjective*
 
- What was good?
- What was bad?
- How did the README make me feel?
+► What was good? 
+► What was bad? 
+► How did the README make me feel? 
 
 ► README quality varies. 
 ► There are few conventions.

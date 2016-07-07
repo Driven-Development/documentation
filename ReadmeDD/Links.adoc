@@ -37,7 +37,8 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 * Pro Tip: Write your issues like documentation 
 
 ► Write the README first as a scaffold for what you're going to do _7:57_
-*Benefits of RDD*
+
+*Benefits of RDD _8:53_*
 
 * Gives a clear idea of the project so code doesn't need to be changed every time you want to adjust it.
 * Provides a reference for later documentation.
@@ -48,11 +49,25 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 * Github showcases the Readme on the main project page
 * It's open-source compatible
 
-* Pro Tip: Keep your Readme open at all times
-* Free Bonus Feature: no teams are just sitting pretty
-* Pro Tip: Implementing RDD/DDD to BDD or TDD can be a simple step _13:25_
+* Pro Tip: Keep your Readme open at all times.
+* Free Bonus Feature: no teams are just sitting pretty.
+* Pro Tip: Implementing RDD/DDD to BDD or TDD can be a simple step. _13:25_
+* Pro Tip: Make writing or updating documentation a required first step of your development process.
+* Pro Tip: Include documentation changes as part of your reviews.
 
-*Pitfalls of RDD*
+*Pitfalls of RDD _14:22_*
+
+* An overgenerlization of a good idea, and need to fit into the documentation process of the project.
+* Some READMEs are written about what the code is aiming to do or could do, rather than what it is actually able to do.
+* It's not a substitute for documentation 
+
+*What makes a good README _15:48_*
+
+* Should describe the project.
+* Format correctly (for browser viewing).
+* Have code samples and examples.
+* Have community, licensing details and how to contribute.
+* Explain where the code may have it's limits and don't over-state it.
 
 == https://www.youtube.com/watch?v=2dAK42B7qtw[Write the Readable README]
 ===== Video link _22.48_

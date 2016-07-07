@@ -125,5 +125,6 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 == https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] 
 ===== Web page
 
-► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]
+► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD].
+
 ► BDD can become more like DDD; "by talking with domain experts clarifying naming, finding missing relations and so on, scenarios can be written with more details and when written in a common language shared by business people and developers, a ubiquitous language will emerge, a key concept in DDD."

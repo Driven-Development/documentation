@@ -86,21 +86,27 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 
 ► Senior Software Developer Wade Waldron does a presentation on the structure of DDD and how it functions in colaboration with Onion Architecture to improve code quality. There is more on this https://www.infoq.com/news/2015/02/bdd-ddd[here]
 
-► What is Domain Driven Design
+► What is Domain Driven Design _1:12_
 
-► 'Bowling Domain' example
+► 'Bowling Domain' example _2:42_
 
 * Domain Experts
 * Ubiquitous Language
 * Bounded Contexts
 
-► Traditional Layered Architecture 
+► Traditional Layered Architecture _5:42_
 
 * Presentation ○ Business/Domain ○ Data access
 
-► Onion Architecture
+► Onion Architecture _6:24_
 
-* Infrastructure ○ API ○ Domain ○ Core
+► The Core _9:20_
+
+► The API _10:40_
+
+► The Domain _12:42_
+
+► The Infrastructure _23:56_
 
 == http://www.drdobbs.com/architecture-and-design/domain-driven-design-the-good-and-the-ch/240169117[Domain-Driven Design: The Good and The Challenging]
 ===== Web Page

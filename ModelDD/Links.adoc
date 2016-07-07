@@ -1,8 +1,5 @@
 = Resources for Model Driven Development
 
-== https://msdn.microsoft.com/en-us/library/aa964145.aspx[Model-Driven Development]
-===== Web page
-
 == https://www.mendix.com/model-driven-development/[What is Model Driven Development (MDD)?]
 ===== Web page
 
@@ -20,9 +17,6 @@
 
 == http://www.eclipse.org/proposals/eclipse-mddi/[Model Driven Development Integration - Eclipse]
 ===== Web page
-
-== https://www.youtube.com/watch?v=OSlm6F8YmKc[Model Driven Development - Taking BDD/ATDD to the Next Level]
-===== Video link _1.15.59_
 
 == https://www.youtube.com/watch?v=pToqX1HH-R8[Model Driven Development for Systems Engineering]
 ===== Video link _34.37_

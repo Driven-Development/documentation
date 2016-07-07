@@ -4,13 +4,13 @@
 ===== Video Link _12:03_
 ►
 
-- Behaviour-Driven Development (BDD)
+*Behaviour-Driven Development (BDD)*
 * What is it?
 * What are the benefits?
 * Who Participates?
-- Rhythm of BDD
+*Rhythm of BDD*
 * How does it fit in the agile process?
-- Gherkin language to create living requirements
+*Gherkin language to create living requirements*
 * How do we define system behaviour?
 
 == https://vimeo.com/65160463[Behavior Driven Development with Cucumber]

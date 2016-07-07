@@ -7,13 +7,13 @@
 
 It also includes advantages of a Readme; 	
 
-•Laying out a clear plan of what you're writing 	
+• Laying out a clear plan of what you're writing 	
 
-•"As a byproduct of writing a Readme in order to know what you need to implement, you’ll have a very nice piece of documentation sitting in front of you." 
+• "As a byproduct of writing a Readme in order to know what you need to implement, you’ll have a very nice piece of documentation sitting in front of you." 
 
-•A Readme provides a document to anyone else working on the project, allowing them to work on other projects that will onterface with the new code before you's even finished 
+• A Readme provides a document to anyone else working on the project, allowing them to work on other projects that will onterface with the new code before you's even finished 
 
-•"The simple act of writing down a proposed solution means everyone has a concrete idea that can be argued about and iterated upon."
+• "The simple act of writing down a proposed solution means everyone has a concrete idea that can be argued about and iterated upon."
 
 https://elliot.land/readme-driven-development[The Humble Readme] 
 

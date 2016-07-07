@@ -20,6 +20,7 @@ As well as best practices designed for software engineering and the pros and con
 
 ► What is a feature?
 * Notion of adding a feature using a simple example
+
 ► Using a feature branch.
 * A brach allows a feature to be developed while the application can be released without unfinished features in it.
 * There are issues with merging different features, but dark launching and small branches are some of the solutions that can be used to solve this.
@@ -28,8 +29,11 @@ As well as best practices designed for software engineering and the pros and con
 ===== Web page
 
 ► Has more in depth information about the origins of FDD.
+
 ► Outlines what a 'feature' is; "A feature is a small, client-valued function expressed in the form <action><result><object>."
+
 ► Uses a diagram to explain the FDD project lifecycle.
+
 ► Explains how agile modeling can be applied to FDD.
 
 ► http://www.nebulon.com/fdd/[Agile Software Development using Feature Driven Development (FDD)]

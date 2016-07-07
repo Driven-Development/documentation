@@ -72,7 +72,7 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 * Entities ○ Value Objects ○ Factories ○ Services ○ Repositories
 - We also synthesize all of these things into a single, layered architecture. But most of that section got cut off because the camera died.
 
-== http://dddcommunity.org/learning-ddd/what_is_ddd/[Domain-driven design] ► A short intoduction to DDD      
+== http://dddcommunity.org/learning-ddd/what_is_ddd/[Overview of DDD] 
 ===== Web page
 
 ►  "Its premise is:
@@ -85,18 +85,33 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 ===== Video link _28:30_
 
 ► Senior Software Developer Wade Waldron does a presentation on the structure of DDD and how it functions in colaboration with Onion Architecture to improve code quality. There is more on this https://www.infoq.com/news/2015/02/bdd-ddd[here]
-► 
+
+► What is Domain Driven Design
+
+► 'Bowling Domain' example
+
+* Domain Experts
+* Ubiquitous Language
+* Bounded Contexts
+
+► Traditional Layered Architecture 
+
+* Presentation * Business/Domain * Data access
 
 == http://www.drdobbs.com/architecture-and-design/domain-driven-design-the-good-and-the-ch/240169117[Domain-Driven Design: The Good and The Challenging]
 ===== Web Page
 
 ► "In DDD, once you understand the business domain your software is to address, then all you have to do is build a layered architecture where the business logic is split into two distinct modules — core domain logic and the application logic."
+
 ► "The scenario for which DDD provides invaluable help is understanding the intricacies of the business domain."
+
 ► The starting point of DDD is that it serves the purpose of design far before it may serve the purpose of implementation."
+
 ► "...a lot of time is lost in working out implementation details"
 
 == https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] 
 ===== Web page
 
 ► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]
+
 ► BDD can become more like DDD; "by talking with domain experts clarifying naming, finding missing relations and so on, scenarios can be written with more details and when written in a common language shared by business people and developers, a ubiquitous language will emerge, a key concept in DDD."

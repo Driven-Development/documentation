@@ -72,6 +72,8 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 == https://www.youtube.com/watch?v=2dAK42B7qtw[Write the Readable README]
 ===== Video link _22.48_
 
+► Uses a scenario for the listener to understand a time where having a well written README is useful.
+
 == https://www.youtube.com/watch?v=23xzRCoDZf4[Ignite Rails: Matt Parker - README Driven Development]
 ===== Video link _5.31_
 
@@ -86,9 +88,6 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 * Act Three - Get Out Quickly
 
 ► Write the README first
-
-== https://www.youtube.com/watch?v=L3SZGil9xok[Readme Driven Development by Petro Sasnyk]
-===== Video link _56:43_
 
 == https://ponyfoo.com/articles/readme-driven-development[README Driven Development]
 ===== Web page

@@ -1,9 +1,8 @@
 = Resources for Test Driven Development 
 
 == http://agiledata.org/essays/tdd.html[Introduction to Test Driven Development (TDD)]
-===== Web page
-
-► *Table of Contents*
+===== Web page ► 
+*Table of Contents*
 
 - What is TDD?
 - TDD and traditional testing
@@ -17,8 +16,7 @@
 - Tools
 
 == https://www.youtube.com/watch?v=QCif_-r8eK4[Test-driven development tutorial: What is test-driven development (TDD)? | lynda.com]
-===== Video link _4:57_
-►
+===== Video link _4:57_ ► 
 
 - Introduction to Test-Driven Development (TDD)
 - Getting Started
@@ -52,9 +50,7 @@
 - Addresses the issue of updating the test if you update the function, focusing on behaviour instead of implimentation.
 
 == https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80).aspx[Guidelines for Test-Driven Development]
-===== Web page
-
-► 
+===== Web page ► 
 
 - Introduction
 - Process Example
@@ -63,4 +59,6 @@
 - Conclusion
 
 == http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html[TDD is dead. Long live testing.]
-===== Web page
+===== Web page ► 
+
+TDD has started out as a promising method to write software, but test-first has since shown itself to not always be the correct way to do things. David Hansson also covers what to do once test-first is left behind.

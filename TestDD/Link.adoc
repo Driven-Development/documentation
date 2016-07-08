@@ -28,21 +28,35 @@
 == https://www.youtube.com/watch?v=HhwElTL-mdI[Test-driven development: Write better code in less time by Evan Dorn]
 ===== Video link _30:54_
 
-► Delving straight into writing code is not a good idea in the long term. _0:29_
+► Intelligence can be a liability - Delving straight into writing code is not a good idea in the long term. _0:29_
 
 ► The proper software process _3:46_
 
-- ► Tests and Test-Driven Development _4:46_
+- Architecture
+- Conventions & Standards 
+- Version Control
+- Coordination (agile, etc.)
+- Test-Driven Development 
 
+► Tests and TDD _4:46_
 
+*Caveats* _12:48_
 
+* You will have to do this for a while before you will be faster.
+* Intelligence is also an asset.
+- Some things are too hard to test.
+- Some tests are too trivial to be useful.
+- Overtesting is possible.
+- Exploratory coding without testing is OK.
+
+► Example of developing an application.
 
 == https://www.youtube.com/watch?v=O-ZT_dtlrR0[What is Test Driven Development (TDD)? With an example]
 ===== Video link _8:11_ 
 
 ► A description of what test driven development is. With an example using the Java Eclipse IDE. The example is the creation of a palindrome checker through TDD.
 
-► Wwhat is test-driven development?- With an example.
+► What is test-driven development?- With an example.
 * Test-first developing and refactoring.
 * Palindrome checker.
 

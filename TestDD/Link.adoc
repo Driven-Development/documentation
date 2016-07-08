@@ -3,7 +3,7 @@
 == http://agiledata.org/essays/tdd.html[Introduction to Test Driven Development (TDD)]
 ===== Web page
 
-*Table of Contents*
+► *Table of Contents*
 
 - What is TDD?
 - TDD and traditional testing
@@ -18,6 +18,7 @@
 
 == https://www.youtube.com/watch?v=QCif_-r8eK4[Test-driven development tutorial: What is test-driven development (TDD)? | lynda.com]
 ===== Video link _4:57_
+►
 
 - Introduction to Test-Driven Development (TDD)
 - Getting Started
@@ -35,10 +36,22 @@
 == http://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/[What’s the difference between Unit Testing, TDD and BDD?]
 ===== Web page
 
+► *Unit testing*
+
+- "A unit test focuses on a single “unit of code” – usually a function in an object or module. By making the test specific to a single function, the test should be simple, quick to write, and quick to run."
+
+► *TDD*
+
+- "TDD or Test-Driven Development is a process for when you write and run your tests."
+- Test-coverage
+- Steps for the TDD process
+
+► *BDD*
+
 == https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80).aspx[Guidelines for Test-Driven Development]
 ===== Web page
 
-*Contents*
+► 
 
 - Introduction
 - Process Example

@@ -1,0 +1,17 @@
+== TDD
+http://www.javaworld.com/article/2073090/testing-debugging/getting-started-with-test-driven-development.html
+
+== BDD
+https://www.infoq.com/news/2015/03/bdd-cucumber-testing
+
+== DDD
+http://stackoverflow.com/questions/2236586/tools-and-environments-supporting-domain-driven-design-ddd
+
+== FDD
+http://fddtools.sourceforge.net/
+
+== RDD
+http://oss.oetiker.ch/rrdtool/
+
+== MDD
+http://www.sensoria-ist.eu/index281d.html?option=com_content&task=view&id=118&Itemid=150

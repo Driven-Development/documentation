@@ -28,8 +28,23 @@
 == https://www.youtube.com/watch?v=HhwElTL-mdI[Test-driven development: Write better code in less time by Evan Dorn]
 ===== Video link _30:54_
 
+► Delving straight into writing code is not a good idea in the long term. _0:29_
+
+► The proper software process _3:46_
+
+- ► Tests and Test-Driven Development _4:46_
+
+
+
+
 == https://www.youtube.com/watch?v=O-ZT_dtlrR0[What is Test Driven Development (TDD)? With an example]
-===== Video link _8:11_
+===== Video link _8:11_ 
+
+► A description of what test driven development is. With an example using the Java Eclipse IDE. The example is the creation of a palindrome checker through TDD.
+
+► Wwhat is test-driven development?- With an example.
+* Test-first developing and refactoring.
+* Palindrome checker.
 
 == http://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/[What’s the difference between Unit Testing, TDD and BDD?]
 ===== Web page

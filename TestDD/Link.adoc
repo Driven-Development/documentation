@@ -49,7 +49,7 @@
 - Overtesting is possible.
 - Exploratory coding without testing is OK.
 
-► Example of developing an application.
+► Example of developing an application. _17:20_
 
 == https://www.youtube.com/watch?v=O-ZT_dtlrR0[What is Test Driven Development (TDD)? With an example]
 ===== Video link _8:11_ 

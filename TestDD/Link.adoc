@@ -48,6 +48,9 @@
 
 ► *BDD*
 
+- "BDD is a set of best practices for writing great tests. BDD can, and should be, used together with TDD and unit testing methods."
+- Addresses the issue of updating the test if you update the function, focusing on behaviour instead of implimentation.
+
 == https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80).aspx[Guidelines for Test-Driven Development]
 ===== Web page
 

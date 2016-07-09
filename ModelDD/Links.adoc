@@ -6,7 +6,7 @@
 == http://agilemodeling.com/essays/amdd.htm[Agile Model Driven Development (AMDD): The Key to Scaling Agile Software Development]
 ===== Web page
 
-Table of Contents
+► Table of Contents
 
 - Overview
 - Envisioning
@@ -25,6 +25,13 @@ Table of Contents
 
 == http://www.theenterprisearchitect.eu/blog/2009/11/25/15-reasons-why-you-should-start-using-model-driven-development/[15 reasons why you should start using Model Driven Development]
 ===== Web page
+
+► Links to http://www.theenterprisearchitect.eu/blog/2009/05/06/dsl-development-7-recommendations-for-domain-specific-language-design-based-on-domain-driven-design[DSL development: 7 recommendations for Domain Specific Language design based on Domain-Driven Design], http://www.theenterprisearchitect.eu/blog/2009/06/03/a-framework-for-model-driven-soa/[A Framework for Model-Driven SOA], http://www.theenterprisearchitect.eu/blog/2009/11/09/10-things-you-should-know-about-model-driven-development/[10 things you should know about Model Driven Development] and http://www.theenterprisearchitect.eu/blog/2009/06/25/8-reasons-why-model-driven-development-is-dangerous/[8 reasons why Model-Driven Development is dangerous]
+
+
+
+
+
 
 == http://www.eclipse.org/proposals/eclipse-mddi/[Model Driven Development Integration - Eclipse]
 ===== Web page

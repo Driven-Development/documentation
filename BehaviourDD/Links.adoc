@@ -1,8 +1,7 @@
 = Resources for Behaviour-Driven Development
 
 == https://www.youtube.com/watch?v=w7NPpEvC1dE[BDD Overview]
-===== Video Link _12:03_
-►
+===== Video Link _12:03_ ►
 
 *Behaviour-Driven Development (BDD)*
 
@@ -26,8 +25,7 @@
 Clemens Helm explains what Cucumber is used for, that it uses feature files and how you write scenarios; "a scenario is a sequence of steps that describe what exactly it is that you want to acheive". This covers "given steps", "when steps" and "then steps", as well as the advantages of using cucumber; descriptions make it clear what the code is doing and the steps are reusable.
 
 == https://www.youtube.com/watch?v=vrry-I4NXCI[Talk by Gordon Force about BDD at the San Francisco Java User Group]
-===== Video Link _59:21_
-►
+===== Video Link _59:21_ ►
 
 - Short Defenition  _0:58_
 - Second-Generation  _1:53_

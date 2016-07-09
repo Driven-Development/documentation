@@ -15,3 +15,10 @@ http://oss.oetiker.ch/rrdtool/
 
 == MDD
 http://www.sensoria-ist.eu/index281d.html?option=com_content&task=view&id=118&Itemid=150
+== https://www.mendix.com/model-driven-development/[What is Model Driven Development (MDD)?]
+===== Web page
+
+► Core Concepts within Model Driven Development (MDD): abstraction and automation.
+
+► Benefits of Mendix’s Model Driven Development (MDD) Platform.
+

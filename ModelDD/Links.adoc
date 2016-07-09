@@ -28,14 +28,30 @@
 
 ► Links to http://www.theenterprisearchitect.eu/blog/2009/05/06/dsl-development-7-recommendations-for-domain-specific-language-design-based-on-domain-driven-design[DSL development: 7 recommendations for Domain Specific Language design based on Domain-Driven Design], http://www.theenterprisearchitect.eu/blog/2009/06/03/a-framework-for-model-driven-soa/[A Framework for Model-Driven SOA], http://www.theenterprisearchitect.eu/blog/2009/11/09/10-things-you-should-know-about-model-driven-development/[10 things you should know about Model Driven Development] and http://www.theenterprisearchitect.eu/blog/2009/06/25/8-reasons-why-model-driven-development-is-dangerous/[8 reasons why Model-Driven Development is dangerous]
 
+► Advantages are, "in short: productivity, quality, alignment."
 
-
-
-
+- 1. MDD is faster
+- 2. MDD is more cost-effective
+- 3. MDD leads to increased quality
+- 4. MDD is less error-prone
+- 5. MDD leads to meaningful validation
+- 6. MDD results in software being less sensitive to changes in personnel
+- 7. MDD empowers domain experts
+- 8. MDD lets advanced programmers focus on the hard stuff
+- 9. MDD bridges the gap between business and IT
+- 10. MDD results in software being less sensitive to changes in business requirements
+- 11. MDD results in software being less sensitive to changes in technology
+- 12. MDD really enforces architecture
+- 13. MDD captures domain knowledge
+- 14. MDD provides up-to-date documentation
+- 15. MDD enables to focus on business problems instead of technology
 
 == http://www.eclipse.org/proposals/eclipse-mddi/[Model Driven Development Integration - Eclipse]
 ===== Web page
 
 == https://www.youtube.com/watch?v=pToqX1HH-R8[Model Driven Development for Systems Engineering]
 ===== Video link _34.37_
+
+https://www.infoq.com/articles/8-reasons-why-MDE-fails[8 Reasons Why Model-Driven Approaches (will) Fail]
+===== Web Page
 

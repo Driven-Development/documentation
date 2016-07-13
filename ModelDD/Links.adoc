@@ -46,12 +46,17 @@
 - 14. MDD provides up-to-date documentation
 - 15. MDD enables to focus on business problems instead of technology
 
-== http://www.eclipse.org/proposals/eclipse-mddi/[Model Driven Development Integration - Eclipse]
-===== Web page
-
 == https://www.youtube.com/watch?v=pToqX1HH-R8[Model Driven Development for Systems Engineering]
 ===== Video link _34.37_
 
 == https://www.infoq.com/articles/8-reasons-why-MDE-fails[8 Reasons Why Model-Driven Approaches (will) Fail]
-===== Web Page
+===== Web Page ► 
 
+1.     Not targeting all goals of Model-Driven Engineering
+2.     Only using one modeling dimension: the dichotomy between PIM and PSM
+3.     Focusing on generating new artifacts
+4.     Using general purpose languages
+5.     Using custom defined domain specific languages
+6.     Using model transformations which are not fully executable
+7.     Not testing the model
+8.     Insufficient tooling

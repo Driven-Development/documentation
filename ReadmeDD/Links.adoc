@@ -1,4 +1,4 @@
-= Resources for Readme Driven Development. 
+= Resources for Readme Driven Development 
 
 == http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development from Tom Preston-Werner] 
 ===== Web page

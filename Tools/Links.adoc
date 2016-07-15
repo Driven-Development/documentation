@@ -1,4 +1,4 @@
-== TDD
+== TDD.
 http://www.javaworld.com/article/2073090/testing-debugging/getting-started-with-test-driven-development.html
 
 == BDD

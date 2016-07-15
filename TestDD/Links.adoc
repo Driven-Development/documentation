@@ -1,4 +1,4 @@
-= Resources for Test Driven Development 
+= Resources for Test Driven Development,. 
 
 == http://agiledata.org/essays/tdd.html[Introduction to Test Driven Development (TDD)]
 ===== Web page ► 

@@ -1,4 +1,4 @@
-== Resources for Puzzle Driven Development.
+== Resources for Puzzle Driven Development
 
 == http://www.yegor256.com/2009/03/04/pdd.html[Puzzle Driven Development]
 ===== Web page 

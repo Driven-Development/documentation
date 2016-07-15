@@ -3,6 +3,20 @@
 == https://www.youtube.com/watch?v=JG_35kLYTSY[Model-Driven Development]
 ===== Video link _11.23_
 
+► "In this module on model driven development we examine two approaches to the use of models to assist in the development of computer systems. In each case the purpose of the modeling is the same, to allow the complexities of the system to be represented in a more abstract, and therefore more understandable fashion."
+
+► "software engineering techniques which allow us to communicate the intent of programs to those outside of the engineering team"
+
+- Modeling Techniques _1:54_
+* Business motivation model
+* Business process model
+* Unified modeling language
+- Transformation _3:32_
+* Programming languages
+* High level and low level
+- Modeling Abstraction Gap _5:15_
+
+
 == http://agilemodeling.com/essays/amdd.htm[Agile Model Driven Development (AMDD): The Key to Scaling Agile Software Development]
 ===== Web page
 

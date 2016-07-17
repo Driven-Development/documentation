@@ -1,6 +1,6 @@
 = Resources for Behaviour-Driven Development
 
-== https://www.youtube.com/watch?v=w7NPpEvC1dE[BDD Overview]. footnote:[Bradley, M. (2016). 02 BDD Overview]
+== https://www.youtube.com/watch?v=w7NPpEvC1dE[BDD Overview]. footnote:[Bradley, M. (2014). 02 BDD Overview]
 ===== Video Link _12:03_ ►
 
 *Behaviour-Driven Development (BDD)*
@@ -24,7 +24,7 @@
 
 Clemens Helm explains what Cucumber is used for, that it uses feature files and how you write scenarios; "a scenario is a sequence of steps that describe what exactly it is that you want to acheive". This covers "given steps", "when steps" and "then steps", as well as the advantages of using cucumber; descriptions make it clear what the code is doing and the steps are reusable.
 
-== https://www.youtube.com/watch?v=vrry-I4NXCI[Talk by Gordon Force about BDD at the San Francisco Java User Group] footnote:[Force, G. (2016). Behavior Driven Development.]
+== https://www.youtube.com/watch?v=vrry-I4NXCI[Talk by Gordon Force about BDD at the San Francisco Java User Group] footnote:[Force, G. (2014). Behavior Driven Development.]
 ===== Video Link _59:21_►
 
 - Short Defenition  _0:58_
@@ -73,7 +73,7 @@ Clemens Helm explains what Cucumber is used for, that it uses feature files and 
 - **Glossary**
 
 
-== https://pythonhosted.org/behave/philosophy.html[Further example of the uses of BDD] footnote:[Rice, B., Jones, R. and Engel, J. (2016). Behavior Driven Development — behave 1.2.5 documentation.]
+== https://pythonhosted.org/behave/philosophy.html[Further example of the uses of BDD] footnote:[Rice, B., Jones, R. and Engel, J. (2014). Behavior Driven Development — behave 1.2.5 documentation.]
 ===== Web Page
 
 ► "BDD focuses on obtaining a clear understanding of desired software behavior through discussion with stakeholders. It extends TDD by writing test cases in a natural language that non-programmers can read."
@@ -95,7 +95,7 @@ Clemens Helm explains what Cucumber is used for, that it uses feature files and 
 It better accomodates the use of http://agilemodeling.com/essays/agileAnalysis.htm[agile analysis] 
 and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automated acceptance testing]. 
 
-== http://behaviourdriven.org/[BDDWiki] footnote:[BDDWiki (2016). BehaviourDrivenDevelopment - BDD Wiki.]
+== http://behaviourdriven.org/[BDDWiki] footnote:[BDDWiki (2014). BehaviourDrivenDevelopment - BDD Wiki.]
 ===== Web Page
 ► "BDD relies on the use of a very specific (and small) vocabulary to minimise miscommunication and to ensure that everyone – the business, developers, testers, analysts and managers – are not only on the same page but using the same words."
 
@@ -122,7 +122,7 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 
 ► The use of stories to improve communication and how to create a good story to reach the goals of the project. This includes a Story Title, Narrative and Scenarios.
 
-== https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] footnote:[Stenberg, J. (2016). Behaviour-Driven Development Combined with Domain-Driven Design.]
+== https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] footnote:[Stenberg, J. (2015). Behaviour-Driven Development Combined with Domain-Driven Design.]
 ===== Web page
 
 ► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD].

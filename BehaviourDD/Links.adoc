@@ -1,6 +1,6 @@
 = Resources for Behaviour-Driven Development
 
-== https://www.youtube.com/watch?v=w7NPpEvC1dE[BDD Overview]. footnote:[Bradley, M. (2014). 02 BDD Overview]
+== https://www.youtube.com/watch?v=w7NPpEvC1dE[BDD Overview] footnote:[Bradley, M. (2014). 02 BDD Overview]
 ===== Video Link _12:03_ ►
 
 *Behaviour-Driven Development (BDD)*

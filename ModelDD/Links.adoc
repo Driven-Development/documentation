@@ -23,6 +23,10 @@ In this module on model driven development we examine two approaches to the use 
 * Crossing the abstraction gap to be useful to all project stakeholders
 - Object Management Group (OMG) _8:46_
 
+== https://www.youtube.com/watch?v=vOIQmULCrso[Model Driven Software: Putting the Cart Before the Egg - Beverly Block]
+
+Establishes jargon of the customer to create a domain specific language that allows the customer to give effective feadback to developers, as they can better understand the development of the code. A visual representation of the process is created using the domain specific language, similar to https://en.wikipedia.org/wiki/Unified_Modeling_Language[UML], and the framework is specific to the domain.
+
 == http://agilemodeling.com/essays/amdd.htm[Agile Model Driven Development (AMDD): The Key to Scaling Agile Software Development]
 ===== Web page
 

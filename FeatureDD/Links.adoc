@@ -22,7 +22,7 @@ As well as best practices designed for software engineering and the pros and con
 * Notion of adding a feature using a simple example
 
 ► Using a feature branch.
-* A brach allows a feature to be developed while the application can be released without unfinished features in it.
+* A branch allows a feature to be developed while the application can be released without unfinished features in it.
 * There are issues with merging different features, but dark launching and small branches are some of the solutions that can be used to solve this.
 
 == http://agilemodeling.com/essays/fdd.htm[Feature Driven Development (FDD) and Agile Modeling] footnote:[Ambler, S. (2014). Feature Driven Development (FDD) and Agile Modeling.]

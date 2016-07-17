@@ -24,7 +24,7 @@
 
 Clemens Helm explains what Cucumber is used for, that it uses feature files and how you write scenarios; "a scenario is a sequence of steps that describe what exactly it is that you want to acheive". This covers "given steps", "when steps" and "then steps", as well as the advantages of using cucumber; descriptions make it clear what the code is doing and the steps are reusable.
 
-== https://www.youtube.com/watch?v=vrry-I4NXCI[Talk by Gordon Force about BDD at the San Francisco Java User Group]
+== https://www.youtube.com/watch?v=vrry-I4NXCI[Talk by Gordon Force about BDD at the San Francisco Java User Group] footnote:[Helm, C. (2013). Behavior Driven Development with Cucumber.]
 ===== Video Link _59:21_ ►
 
 - Short Defenition  _0:58_

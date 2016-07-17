@@ -22,12 +22,12 @@
 
 ► "Today we are going to talk about Behavior Driven Development with Cucumber. I have set up a little app and show you some examples in Ruby."
 
-Clemens Helm explains what Cucumber is used for, that it uses feature files and how you write scenarios; "a scenario is a sequence of steps that describe what exactly it is that you want to acheive". This covers "given steps", "when steps" and "then steps", as well as the advantages of using cucumber; descriptions make it clear what the code is doing and the steps are reusable.
+Clemens Helm explains what Cucumber is used for, that it uses feature files and how you write scenarios; "a scenario is a sequence of steps that describe what exactly it is that you want to achieve". This covers "given steps", "when steps" and "then steps", as well as the advantages of using cucumber; descriptions make it clear what the code is doing and the steps are reusable.
 
 == https://www.youtube.com/watch?v=vrry-I4NXCI[Talk by Gordon Force about BDD at the San Francisco Java User Group] footnote:[Force, G. (2014). Behavior Driven Development.]
 ===== Video Link _59:21_►
 
-- Short Defenition  _0:58_
+- Short Definition  _0:58_
 - Second-Generation  _1:53_
 - Outside-In Methodology _2:48_
 - BDD Stories - Multiple-Stakeholder _3:55_
@@ -92,31 +92,31 @@ Clemens Helm explains what Cucumber is used for, that it uses feature files and 
 == https://dannorth.net/introducing-bdd/[The development of BDD from Test Driven Development] footnote:[North, D. (2006). Introducing BDD.]
 ===== Web Page
 ► This article explains how BDD was developed to improve upon the limitations of https://github.com/Driven-Development/documentation/blob/master/TestDD/Link.adoc[TDD]. 
-It better accomodates the use of http://agilemodeling.com/essays/agileAnalysis.htm[agile analysis] 
+It better accommodates the use of http://agilemodeling.com/essays/agileAnalysis.htm[agile analysis] 
 and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automated acceptance testing]. 
 
 == http://behaviourdriven.org/[BDDWiki] footnote:[BDDWiki (2014). BehaviourDrivenDevelopment - BDD Wiki.]
 ===== Web Page
 ► "BDD relies on the use of a very specific (and small) vocabulary to minimise miscommunication and to ensure that everyone – the business, developers, testers, analysts and managers – are not only on the same page but using the same words."
 
-► The pages leads to a more in depth explaination of BDD:
+► The pages leads to a more in depth explanation of BDD:
 
 - Introduction : A brief overview
-- The BDDProcess : A description of a development process using BDD
-- BehaviourDrivenAnalysis : How do we approach analysis for BDD?
-- BehaviourDrivenProgramming : What changes do we make to our approach to programming?
-- DanNorth has written an article describing how BDD evolved.
+- The BDD Process : A description of a development process using BDD
+- Behaviour Driven Analysis : How do we approach analysis for BDD?
+- Behaviour Driven Programming : What changes do we make to our approach to programming?
+- Dan North has written an https://dannorth.net/introducing-bdd/[article] describing how BDD evolved.
 - DaveAstels has written an article about BDD in Ruby.
 - Implementations : Tools for implementing BDD.
 
-== https://prezi.com/pcffgdstea5e/s[Stories using Behavior Driven Dev] footnote:[Vince A (2016). Stories using Behavior Driven Dev.]
+== https://prezi.com/pcffgdstea5e/s[Stories using Behaviour Driven Dev] footnote:[Vince A (2016). Stories using Behavior Driven Dev.]
 ===== Prezi Powerpoint
 
 ► This presentation outlines how BDD can improve communication between the customers, developers and stakeholders involved. 
 
 ► Transcript included for clarity
 
-► BDD is a Combination of Test Driven Development and Domain Driven Development , and it's based on three core principles; Business and technology should refer to the same system in the same way; any system should have an identifiable and varifiable value to the business; up-front analysis, design and planning all have a diminishing return.
+► BDD is a combination of Test Driven Development and Domain Driven Development , and it's based on three core principles; Business and technology should refer to the same system in the same way; any system should have an identifiable and verifiable value to the business; up-front analysis, design and planning all have a diminishing return.
 
 ► Test Driven Development is making the software right, whereas Behaviour Driven Development is making the right software.
 

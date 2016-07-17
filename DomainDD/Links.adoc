@@ -13,19 +13,19 @@
 
 ► Bounded context is also explained; "users relate to the concepts of the model in a particular way, and the terminology of the model makes sense to these users but not necessarily to anyone else outside that context."
 
-== https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2] footnote:[Bohlen, S. (2016). Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2.]
+== https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2] footnote:[Bohlen, S. (2015). Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2.]
 ===== Video link _52:19_
 
 ► "Steve Bohlen introduces DDD principles and concepts, and explores various patterns -Repositories, Specifications, Entities, Value Objects, Services, etc. - useful for implementing DDD in .NET code."
 
 ► Concepts behind DDD.
 
-=== https://www.infoq.com/presentations/ddd-net-2[Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2] footnote:[Bohlen, S. (2016). Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2.]
+=== https://www.infoq.com/presentations/ddd-net-2[Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2] footnote:[Bohlen, S. (2015). Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2.]
 ===== Video link _1:02:10_
 
 ► Individual building blocks, code examples.
 
-== https://www.youtube.com/watch?v=RNUn2R7TptM[Domain-Driven Design: Bradley Holt Found Line] footnote:[Holt, B. (2016). Domain-Driven Design.]
+== https://www.youtube.com/watch?v=RNUn2R7TptM[Domain-Driven Design: Bradley Holt Found Line] footnote:[Holt, B. (2012). Domain-Driven Design.]
 ===== Video link _1:05:37_
 
 ► 
@@ -57,7 +57,7 @@
 * Write Model/Read Model
 - Q&A
 
-== https://www.youtube.com/watch?v=d8V_yCuXx2Y[Domain Driven Design talk, given at Imagine Easy Solutions in New York City.] footnote:[Edwards, C. (2016). Domain Driven Design.]
+== https://www.youtube.com/watch?v=d8V_yCuXx2Y[Domain Driven Design talk, given at Imagine Easy Solutions in New York City.] footnote:[Edwards, C. (2014). Domain Driven Design.]
 ===== Video link _59:33_
 
 ► https://www.dropbox.com/s/27oq6ewyjo44i3a/DDDppt.pptx?dl=0[Powerpoint presentation given]

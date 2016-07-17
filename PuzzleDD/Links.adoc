@@ -18,4 +18,4 @@
 
 ► Also gives a Summary of PDD. explaining the advantage of not having long branches, meaning less room for mistakes when the tasks are small.
 
-► Has an example comparing PDD to a "delayed branch" apporach.
+► Has an example comparing PDD to a "delayed branch" approach.

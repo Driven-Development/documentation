@@ -1,6 +1,6 @@
 = Resources for Test Driven Development
 
-== http://agiledata.org/essays/tdd.html[Introduction to Test Driven Development (TDD)]
+== http://agiledata.org/essays/tdd.html[Introduction to Test Driven Development (TDD)] footnote:[Ambler, S. (2013). Introduction to Test Driven Development (TDD).]
 ===== Web page ► 
 *Table of Contents*
 
@@ -15,7 +15,7 @@
 - Summary
 - Tools
 
-== https://www.youtube.com/watch?v=QCif_-r8eK4[Test-driven development tutorial: What is test-driven development (TDD)? | lynda.com]
+== https://www.youtube.com/watch?v=QCif_-r8eK4[Test-driven development tutorial: What is test-driven development (TDD)? | lynda.com] footnote:[Allardice, S. (2013). Test-driven development tutorial: What is test-driven development (TDD)? | lynda.com.]
 ===== Video link _4:57_ ► 
 
 - Introduction to Test-Driven Development (TDD)
@@ -25,7 +25,7 @@
 - Additional Topics
 - Conclusion
 
-== https://www.youtube.com/watch?v=HhwElTL-mdI[Test-driven development: Write better code in less time by Evan Dorn]
+== https://www.youtube.com/watch?v=HhwElTL-mdI[Test-driven development: Write better code in less time by Evan Dorn] footnote:[Dorn, E. (2012). Test-driven development: Write better code in less time by Evan Dorn.]
 ===== Video link _30:54_
 
 ► Intelligence can be a liability - Delving straight into writing code is not a good idea in the long term. _0:29_
@@ -51,7 +51,7 @@
 
 ► Example of developing an application. _17:20_
 
-== https://www.youtube.com/watch?v=O-ZT_dtlrR0[What is Test Driven Development (TDD)? With an example]
+== https://www.youtube.com/watch?v=O-ZT_dtlrR0[What is Test Driven Development (TDD)? With an example] footnot5e:[Lawrence, B. (2011). What is Test Driven Development (TDD)? With an example.]
 ===== Video link _8:11_ 
 
 ► A description of what test driven development is. With an example using the Java Eclipse IDE. The example is the creation of a palindrome checker through TDD.
@@ -60,7 +60,7 @@
 * Test-first developing and refactoring.
 * Palindrome checker.
 
-== http://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/[What’s the difference between Unit Testing, TDD and BDD?]
+== http://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/[What’s the difference between Unit Testing, TDD and BDD?] footnote:[Hartikainen, J. (2016). What’s the difference between Unit Testing, TDD and BDD? | CodeUtopia.]
 ===== Web page
 
 ► *Unit testing*
@@ -78,7 +78,7 @@
 - "BDD is a set of best practices for writing great tests. BDD can, and should be, used together with TDD and unit testing methods."
 - Addresses the issue of updating the test if you update the function, focusing on behaviour instead of implimentation.
 
-== https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80).aspx[Guidelines for Test-Driven Development]
+== [Guidelines for Test-Driven Development] footnote:[Palermo, J. (2006). Guidelines for Test-Driven Development.]
 ===== Web page ► 
 
 - Introduction
@@ -87,7 +87,7 @@
 - Characteristics of a Good Unit Test
 - Conclusion
 
-== http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html[TDD is dead. Long live testing.]
+== http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html[TDD is dead. Long live testing.] footnote:[Heinemeier Hansson, D. (2014). TDD is dead. Long live testing. (DHH).]
 ===== Web page ► 
 
 TDD has started out as a promising method to write software, but test-first has since shown itself to not always be the correct way to do things. David Hansson also covers what to do once test-first is left behind.

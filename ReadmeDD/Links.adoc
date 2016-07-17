@@ -22,7 +22,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 == https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014] footnote:[Drees, F. (2014). DevFest Vienna 2014 - (Kick-ass) Documentation Driven Development (Floor Drees).]
 ===== Video link _23.25_
 
-► Implications and benifits of having a README and its links to a design-driven way of thinking, as well as how it fits into https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation Driven Development] and others.
+► Implications and benefits of having a README and its links to a design-driven way of thinking, as well as how it fits into https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation Driven Development] and others.
 
 ► Having a document of the requirements before hand rather than having to document everything afterward.
 
@@ -30,7 +30,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 ► How does RDD relate to https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]? _5:30_
 
-* README is an intoduction to the code rather than a whole documentation
+* README is an introduction to the code rather than a whole documentation
 
 ► Detecting complexity early on _6:50_
 
@@ -57,7 +57,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 *Pitfalls of RDD _14:22_*
 
-* An overgenerlization of a good idea, and need to fit into the documentation process of the project.
+* An over-generlization of a good idea, and need to fit into the documentation process of the project.
 * Some READMEs are written about what the code is aiming to do or could do, rather than what it is actually able to do.
 * It's not a substitute for documentation 
 
@@ -101,7 +101,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 ► Build the readers confidence in the project
 
-* Helps the reader identiry the project.  ○ Evaluate the project - who it's for/ help, where it came from.  ○ Use the project one time.  ○ Help the reader engaje with the project.
+* Helps the reader identify the project.  ○ Evaluate the project - who it's for/ help, where it came from.  ○ Use the project one time.  ○ Help the reader engage with the project.
 
 ► *Using a README template/checklist* _12:16_
 
@@ -115,11 +115,11 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 ► Evaluate 
 
-* How doe sthis project help? ○ What are the terms of use? 
+* How does this project help? ○ What are the terms of use? 
 
 ► Use
 
-* Name prerequisits  ○ List installation steps  ○ Show it works once.
+* Name prerequisites  ○ List installation steps  ○ Show it works once.
 
 ► Engage
 

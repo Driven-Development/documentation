@@ -1,14 +1,13 @@
 = Resources for Documentation Driven Development 
 
-== https://gist.github.com/zsup/9434452[Documentation-Driven Development (DDD)] 
-
+== https://gist.github.com/zsup/9434452[Documentation-Driven Development (DDD)] footnote:[Supalla, Z. (2016). Documentation-Driven Development (DDD).]
 ===== Web Page
 
 ► A definition of DDD and a simple order of operations when utilising it.
 
 ► "...from the perspective of a user, if a feature is not documented, then it doesn't exist, and if a feature is documented incorrectly, then it's broken."
 
-== https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016]
+== https://www.youtube.com/watch?v=x5rGUqRWlK8[DDD from Daniele Procida at PyCon 2016] footnote:[Procida, D. (2016). Daniele Procida - Documentation-driven development - lessons from the Django Project - PyCon 2016.]
 
 ===== Video link _28:01_
 
@@ -35,12 +34,12 @@
 * Django does documentation-driven development 
 - *What can your project do?* _23.17_
 
-== http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[Collective idea- On Documentation-Driven Development]
+== http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/[Collective idea- On Documentation-Driven Development] footnote:[Richert, S. (2014). On Documentation-Driven Development.]
 ===== Web Page
 
 ► The article talks about this "lesser-known concept of “documentation-driven development”". It hightlights the importance of the README, "it has the ability to give a high level view of your code, communicating its overarching purpose." It also mentions http://www.webopedia.com/TERM/A/API.html[APIs] and their experience at Collective Idea, "writing documentation first provides a space in which server and client teams can collaborate", " [DDD] elevates writing documentation to the same level of importance as writing code... this gives the reviewer insight into the “why” behind a set of code changes."
 
-== http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[SpliceIt!-Documenation v0.1 ALPHA]
+== http://thinkingphp.org/spliceit/docs/0.1_alpha/pages/ddd_info.html[SpliceIt!-Documenation v0.1 ALPHA] footnote:[Heinzmann, F. et al (2016). Documenation Driven Development (DDD).]
 ===== Web Page
 
 ► Benefits and limitations of DDD

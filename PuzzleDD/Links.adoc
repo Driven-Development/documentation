@@ -1,6 +1,6 @@
 == Resources for Puzzle Driven Development
 
-== http://www.yegor256.com/2009/03/04/pdd.html[Puzzle Driven Development]
+== http://www.yegor256.com/2009/03/04/pdd.html[Puzzle Driven Development] footnote:[Bugayenko, Y. (2009). Puzzle Driven Development.]
 ===== Web page 
 
 ► "PDD, or Puzzle Driven Development, is a method used to break down programming tasks into smaller ones and enable their implementation in parallel."
@@ -9,7 +9,7 @@
 
 ► Also has Best Practices for how to use PDD.
 
-== http://www.technoparkcorp.com/innovations/pdd/[Puzzle Driven Development (PDD)]
+== http://www.technoparkcorp.com/innovations/pdd/[Puzzle Driven Development (PDD)] footnote:[Technoparkcorp. (2010). Puzzle Driven Development (PDD).]
 ===== Web page
 
 ►  This article talks about the increasing use of PDD in technology companies.

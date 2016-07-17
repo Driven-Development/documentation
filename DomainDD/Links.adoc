@@ -7,7 +7,7 @@
 
 ► "The philosophy of domain-driven design... is about placing our attention at the heart of the application, focusing on the complexity that is intrinsic to the business domain itself."
 
-► The article explains a model-driven design that DDD uses, "the model is the set of concepts that we select to be implemented in software, represented in code and any other software artifact used to construct the delivered system. In other words, the code is the model."
+► The article explains a model-driven design that DDD uses, "the model is the set of concepts that we select to be implemented in software, represented in code and any other software artefact used to construct the delivered system. In other words, the code is the model."
 
 ► This explains how you "develop a ubiquitous language. If an idea can’t easily be expressed then it indicates a concept that’s missing from the domain model and the team work together to figure out what that missing concept is."
 
@@ -47,10 +47,10 @@
 - Ubiquitous Language _0:26:30_
 * Domain concept: Election event
 * Election Event ○ Ballot item ○ Election ○ District ○ Winning Threshold
-* Scenario ○ Elecation Aggregate ○ Election Entity (Aggregate Root) ○ Candidate Entity ○ Winning Policy Value Object
+* Scenario ○ Election Aggregate ○ Election Entity (Aggregate Root) ○ Candidate Entity ○ Winning Policy Value Object
 * Code Probe ○ Election Scenario as Test ○ Challenge Model with more Scenarios ○ 
 - Supple Design _0:45:13_
-* Closure of operations ○ Totaling Ballot Item Results ○ Other Techniques ○ Is the intention clear? ○ Side-effect free  ○ Assert Preconditions and Postconditions 
+* Closure of operations ○ Totalling Ballot Item Results ○ Other Techniques ○ Is the intention clear? ○ Side-effect free  ○ Assert Pre-conditions and Post-conditions 
 - Advanced Topics _0:52:10_
 * Domain Event ○ Event Log 
 - Command-Query Responsibility Segregation (CQRS) _0:54:09_
@@ -70,7 +70,6 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 - How do I work with a domain expert to create a model?
 - The building blocks of the model, including:
 * Entities ○ Value Objects ○ Factories ○ Services ○ Repositories
-- We also synthesize all of these things into a single, layered architecture. But most of that section got cut off because the camera died.
 
 == http://dddcommunity.org/learning-ddd/what_is_ddd/[Overview of DDD] footnote:[Domain Language, Inc. (2007). What is Domain-Driven Design?.]
 ===== Web page

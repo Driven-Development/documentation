@@ -24,8 +24,9 @@ In this module on model driven development we examine two approaches to the use 
 - Object Management Group (OMG) _8:46_
 
 == https://www.youtube.com/watch?v=vOIQmULCrso[Model Driven Software: Putting the Cart Before the Egg - Beverly Block]
+===== Video link _5:04_
 
-Establishes jargon of the customer to create a domain specific language that allows the customer to give effective feadback to developers, as they can better understand the development of the code. A visual representation of the process is created using the domain specific language, similar to https://en.wikipedia.org/wiki/Unified_Modeling_Language[UML], and the framework is specific to the domain.
+► Establishes jargon of the customer to create a domain specific language that allows the customer to give effective feadback to developers, as they can better understand the development of the code. A visual representation of the process is created using the domain specific language, similar to https://en.wikipedia.org/wiki/Unified_Modeling_Language[UML], and the framework is specific to the domain.
 
 == http://agilemodeling.com/essays/amdd.htm[Agile Model Driven Development (AMDD): The Key to Scaling Agile Software Development]
 ===== Web page
@@ -46,6 +47,21 @@ Establishes jargon of the customer to create a domain specific language that all
 
 == https://www.youtube.com/watch?v=RcFL31JtArI[Bryan Bakker: Model Driven Development and its Impact on Testing. A Nanotech Case Study]
 ===== Video link _25.58_
+
+► Contents
+
+- Intro _0:00_
+* About Bryan Bakker
+* About Sioux
+* About FEI - a customer
+- ASD - Analytical Software Design _4:53_
+* MDD technology
+* ASD Model
+- MDD and Testing _11:50_
+* The V-model
+- Experiences _14:56_
+* Testing experiences
+* Product Risk Analysis
 
 == http://www.theenterprisearchitect.eu/blog/2009/11/25/15-reasons-why-you-should-start-using-model-driven-development/[15 reasons why you should start using Model Driven Development]
 ===== Web page

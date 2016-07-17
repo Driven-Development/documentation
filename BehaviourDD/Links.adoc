@@ -89,13 +89,13 @@ Clemens Helm explains what Cucumber is used for, that it uses feature files and 
 - Using ‘ensure’ when describing responsibilities of software to differentiate outcomes in the scope of the code in question from side-effects of other elements of code.
 - Using mocks to stand-in for collaborating modules of code which have not yet been written"
 
-== https://dannorth.net/introducing-bdd/[The development of BDD from Test Driven Development]
+== https://dannorth.net/introducing-bdd/[The development of BDD from Test Driven Development] footnote:[North, D. (2006). Introducing BDD.]
 ===== Web Page
 ► This article explains how BDD was developed to improve upon the limitations of https://github.com/Driven-Development/documentation/blob/master/TestDD/Link.adoc[TDD]. 
 It better accomodates the use of http://agilemodeling.com/essays/agileAnalysis.htm[agile analysis] 
 and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automated acceptance testing]. 
 
-== http://behaviourdriven.org/[BDDWiki]
+== http://behaviourdriven.org/[BDDWiki] footnote:[BDDWiki (2016). BehaviourDrivenDevelopment - BDD Wiki.]
 ===== Web Page
 ► "BDD relies on the use of a very specific (and small) vocabulary to minimise miscommunication and to ensure that everyone – the business, developers, testers, analysts and managers – are not only on the same page but using the same words."
 
@@ -109,10 +109,12 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 - DaveAstels has written an article about BDD in Ruby.
 - Implementations : Tools for implementing BDD.
 
-== https://prezi.com/pcffgdstea5e/stories-using-behavior-driven-dev/[Stories using Behavior Driven Dev]
+== https://prezi.com/pcffgdstea5e/s[Stories using Behavior Driven Dev] footnote:[Vince A (2016). Stories using Behavior Driven Dev.]
 ===== Prezi Powerpoint
 
 ► This presentation outlines how BDD can improve communication between the customers, developers and stakeholders involved. 
+
+► Transcript included for clarity
 
 ► BDD is a Combination of Test Driven Development and Domain Driven Development , and it's based on three core principles; Business and technology should refer to the same system in the same way; any system should have an identifiable and varifiable value to the business; up-front analysis, design and planning all have a diminishing return.
 
@@ -120,7 +122,7 @@ and https://www.thoughtworks.com/insights/blog/acceptance-test-automation[automa
 
 ► The use of stories to improve communication and how to create a good story to reach the goals of the project. This includes a Story Title, Narrative and Scenarios.
 
-== https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] 
+== https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] footnote:[Stenberg, J. (2016). Behaviour-Driven Development Combined with Domain-Driven Design.]
 ===== Web page
 
 ► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD].

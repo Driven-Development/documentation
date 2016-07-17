@@ -1,6 +1,6 @@
 = Resources for Readme Driven Development 
 
-== http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development from Tom Preston-Werner] 
+== http://tom.preston-werner.com/2010/08/23/readme-driven-development.html[Readme Driven Development from Tom Preston-Werner] footnote:[Preston-Werner, T. (2010). Readme Driven Development.]
 ===== Web page
 
 ► This outlines why a Readme should be included in documentation and its place as a subset of https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation-Driven Development]. 
@@ -19,7 +19,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 ► This goes into a bit more detail on what is in the Readme and how it's beneficial for the person writing the documentation and the reader.
 
-== https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014] 
+== https://www.youtube.com/watch?v=4qD3KmGLnss[Presentation at DevFest Vienna 2014] footnote:[Drees, F. (2014). DevFest Vienna 2014 - (Kick-ass) Documentation Driven Development (Floor Drees).]
 ===== Video link _23.25_
 
 ► Implications and benifits of having a README and its links to a design-driven way of thinking, as well as how it fits into https://github.com/Driven-Development/documentation/blob/master/DocumentationDD/Links.adoc[Documentation Driven Development] and others.
@@ -69,7 +69,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 * Have community, licensing details and how to contribute.
 * Explain where the code may have it's limits and don't over-state it.
 
-== https://www.youtube.com/watch?v=2dAK42B7qtw[Write the Readable README]
+== https://www.youtube.com/watch?v=2dAK42B7qtw[Write the Readable README] footnote:[Beck, D. (2016). Write the Readable README.]
 ===== Video link _22.48_
 
 ► Uses a scenario for the listener to understand a time where having a well written README is useful.
@@ -127,7 +127,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 * github.com/nayafia/contributing-template 
 
-== https://www.youtube.com/watch?v=23xzRCoDZf4[Ignite Rails: Matt Parker - README Driven Development]
+== https://www.youtube.com/watch?v=23xzRCoDZf4[Ignite Rails: Matt Parker - README Driven Development] footnote:[Parker, M. (2011). Ignite Rails: Matt Parker - README Driven Development.]
 ===== Video link _5.31_
 
 ► README is part of having an open source community.
@@ -142,7 +142,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 ► Write the README first.
 
-== https://ponyfoo.com/articles/readme-driven-development[README Driven Development]
+== https://ponyfoo.com/articles/readme-driven-development[README Driven Development] footnote:[<nico@ponyfoo.com>, N. (2015). README Driven Development. [online] Pony Foo. Available at: https://ponyfoo.com/articles/readme-driven-development [Accessed 17 Jul. 2016].]
 ===== Web page
 
 ► "README-first is a powerful notion. You sit down, you design your library, flesh out an http://www.webopedia.com/TERM/A/API.html[API], write it down, and get to coding."

@@ -142,7 +142,7 @@ https://elliot.land/readme-driven-development[The Humble Readme]
 
 ► Write the README first.
 
-== https://ponyfoo.com/articles/readme-driven-development[README Driven Development] footnote:[<nico@ponyfoo.com>, N. (2015). README Driven Development. [online] Pony Foo. Available at: https://ponyfoo.com/articles/readme-driven-development [Accessed 17 Jul. 2016].]
+== https://ponyfoo.com/articles/readme-driven-development[README Driven Development] footnote:[<nico@ponyfoo.com>, N. (2015). README Driven Development.]
 ===== Web page
 
 ► "README-first is a powerful notion. You sit down, you design your library, flesh out an http://www.webopedia.com/TERM/A/API.html[API], write it down, and get to coding."

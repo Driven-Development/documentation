@@ -17,7 +17,7 @@
 
 * How do we define system behaviour?
 
-== https://vimeo.com/65160463[Behavior Driven Development with Cucumber]
+== https://vimeo.com/65160463[Behavior Driven Development with Cucumber] footnote:[Helm, C. (2013). Behavior Driven Development with Cucumber.]
 ===== Video link _10:40_
 
 ► "Today we are going to talk about Behavior Driven Development with Cucumber. I have set up a little app and show you some examples in Ruby."

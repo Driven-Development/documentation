@@ -81,8 +81,7 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 	- Base complex designs on a model
 	- Initiate a creative collaboration between technical and domain experts to iteratively cut ever closer to the conceptual heart of the problem."
 
-== https://www.youtube.com/watch?v=pL9XeNjy_z4[Domain Driven Design Through Onion Architecture] 
-footnote:[Waldron, W. (2014). Domain Driven Design Through Onion Architecture.]
+== https://www.youtube.com/watch?v=pL9XeNjy_z4[Domain Driven Design Through Onion Architecture] footnote:[Waldron, W. (2014). Domain Driven Design Through Onion Architecture.]
 ===== Video link _28:30_
 
 ► Senior Software Developer Wade Waldron does a presentation on the structure of DDD and how it functions in colaboration with Onion Architecture to improve code quality. There is more on this https://www.infoq.com/news/2015/02/bdd-ddd[here]
@@ -109,7 +108,7 @@ footnote:[Waldron, W. (2014). Domain Driven Design Through Onion Architecture.]
 
 ► The Infrastructure _23:56_
 
-== http://www.drdobbs.com/architecture-and-design/domain-driven-design-the-good-and-the-ch/240169117[Domain-Driven Design: The Good and The Challenging]
+== http://www.drdobbs.com/architecture-and-design/domain-driven-design-the-good-and-the-ch/240169117[Domain-Driven Design: The Good and The Challenging] footnote:[Esposito, D. (2014). Domain-Driven Design: The Good and The Challenging.]
 ===== Web Page
 
 ► "In DDD, once you understand the business domain your software is to address, then all you have to do is build a layered architecture where the business logic is split into two distinct modules — core domain logic and the application logic."
@@ -120,7 +119,7 @@ footnote:[Waldron, W. (2014). Domain Driven Design Through Onion Architecture.]
 
 ► "...a lot of time is lost in working out implementation details"
 
-== https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] 
+== https://www.infoq.com/news/2015/02/bdd-ddd[Behaviour-Driven Development Combined with Domain-Driven Design] footnote:[Stenberg, J. (2015). Behaviour-Driven Development Combined with Domain-Driven Design.]
 ===== Web page
 
 ► DDD can also be used in combination with https://github.com/Driven-Development/documentation/blob/master/BehaviourDD/Links.adoc[BDD]

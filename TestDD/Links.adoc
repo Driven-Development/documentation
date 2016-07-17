@@ -51,7 +51,7 @@
 
 ► Example of developing an application. _17:20_
 
-== https://www.youtube.com/watch?v=O-ZT_dtlrR0[What is Test Driven Development (TDD)? With an example] footnot5e:[Lawrence, B. (2011). What is Test Driven Development (TDD)? With an example.]
+== https://www.youtube.com/watch?v=O-ZT_dtlrR0[What is Test Driven Development (TDD)? With an example] footnote:[Lawrence, B. (2011). What is Test Driven Development (TDD)? With an example.]
 ===== Video link _8:11_ 
 
 ► A description of what test driven development is. With an example using the Java Eclipse IDE. The example is the creation of a palindrome checker through TDD.

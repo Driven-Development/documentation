@@ -1,6 +1,6 @@
 = Resources for Domain Driven Development
 
-== http://www.methodsandtools.com/archive/archive.php?id=97[An Introduction to Domain Driven Design]
+== http://www.methodsandtools.com/archive/archive.php?id=97[An Introduction to Domain Driven Design] footnote:[Haywood, D. (2016). An Introduction to Domain Driven Design.]
 ===== Web page
 
 ► "In this article I’m going to run through some of the main patterns of DDD, pick up on some areas where newbies seem to struggle, and highlight some tools and resources to help you apply DDD in your work."
@@ -13,19 +13,19 @@
 
 ► Bounded context is also explained; "users relate to the concepts of the model in a particular way, and the terminology of the model makes sense to these users but not necessarily to anyone else outside that context."
 
-== https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2]
+== https://www.infoq.com/presentations/ddd-net-1[Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2] footnote:[Bohlen, S. (2016). Exploring Domain Driven Design Implementation Patterns in .NET, Part 1/2.]
 ===== Video link _52:19_
 
 ► "Steve Bohlen introduces DDD principles and concepts, and explores various patterns -Repositories, Specifications, Entities, Value Objects, Services, etc. - useful for implementing DDD in .NET code."
 
 ► Concepts behind DDD.
 
-=== https://www.infoq.com/presentations/ddd-net-2[Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2]
+=== https://www.infoq.com/presentations/ddd-net-2[Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2] footnote:[Bohlen, S. (2016). Exploring Domain Driven Design Implementation Patterns in .NET, Part 2/2.]
 ===== Video link _1:02:10_
 
 ► Individual building blocks, code examples.
 
-== https://www.youtube.com/watch?v=RNUn2R7TptM[Domain-Driven Design: Bradley Holt Found Line]
+== https://www.youtube.com/watch?v=RNUn2R7TptM[Domain-Driven Design: Bradley Holt Found Line] footnote:[Holt, B. (2016). Domain-Driven Design.]
 ===== Video link _1:05:37_
 
 ► 
@@ -57,7 +57,7 @@
 * Write Model/Read Model
 - Q&A
 
-== https://www.youtube.com/watch?v=d8V_yCuXx2Y[Domain Driven Design talk, given at Imagine Easy Solutions in New York City.]
+== https://www.youtube.com/watch?v=d8V_yCuXx2Y[Domain Driven Design talk, given at Imagine Easy Solutions in New York City.] footnote:[Edwards, C. (2016). Domain Driven Design.]
 ===== Video link _59:33_
 
 ► https://www.dropbox.com/s/27oq6ewyjo44i3a/DDDppt.pptx?dl=0[Powerpoint presentation given]
@@ -72,7 +72,7 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 * Entities ○ Value Objects ○ Factories ○ Services ○ Repositories
 - We also synthesize all of these things into a single, layered architecture. But most of that section got cut off because the camera died.
 
-== http://dddcommunity.org/learning-ddd/what_is_ddd/[Overview of DDD] 
+== http://dddcommunity.org/learning-ddd/what_is_ddd/[Overview of DDD] footnote:[Domain Language, Inc. (2007). What is Domain-Driven Design?.]
 ===== Web page
 
 ►  "Its premise is:
@@ -81,7 +81,8 @@ A Tech Talk about Domain Driven Design, given at Imagine Easy Solutions in New Y
 	- Base complex designs on a model
 	- Initiate a creative collaboration between technical and domain experts to iteratively cut ever closer to the conceptual heart of the problem."
 
-== https://www.youtube.com/watch?v=pL9XeNjy_z4[Domain Driven Design Through Onion Architecture]  
+== https://www.youtube.com/watch?v=pL9XeNjy_z4[Domain Driven Design Through Onion Architecture] 
+footnote:[Waldron, W. (2014). Domain Driven Design Through Onion Architecture.]
 ===== Video link _28:30_
 
 ► Senior Software Developer Wade Waldron does a presentation on the structure of DDD and how it functions in colaboration with Onion Architecture to improve code quality. There is more on this https://www.infoq.com/news/2015/02/bdd-ddd[here]
